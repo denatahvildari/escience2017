@@ -1,0 +1,315 @@
+terms;source;ROC scores;tf-idf scores;lda scores;0=poor;1 = somewhat;2= absolute;expert judgment
+aqueous;DOC terms -- LDA;0;0;0.06;1;0;4;0.80
+measured;DOC terms -- LDA;0;0;0.03;0;2;3;0.80
+chromatography performed;DOC terms -- tf-idf;0;1.53;0.00;1;3;6;0.75
+chromatography;DOC terms;0;2.8;0.06;1;3;6;0.75
+dumas;ROC terms;1;0.00;0.00;1;3;5;0.72
+analytical;common terms;1;1.97;0.05;0;5;4;0.72
+dionex sunnyvale;DOC terms -- tf-idf;0;1.43;0.00;2;2;6;0.70
+compounds;DOC terms -- LDA;0;0;0.05;0;3;2;0.70
+spectra;DOC terms -- LDA;0;0;0.03;1;1;3;0.70
+determined;DOC terms;0;2.83;0.09;2;2;6;0.70
+dionex;common terms;1;4.99;0.09;3;0;7;0.70
+concentration;common terms;1;1.91;0.03;3;0;7;0.70
+elution;DOC terms;0;3.91;0.16;3;0;6;0.67
+elution performed;DOC terms -- tf-idf;0;1.20;0.00;3;1;6;0.65
+columns;DOC terms;0;2.88;0.04;2;3;5;0.65
+ml;ROC terms;1;0.00;0.00;2;3;4;0.61
+molecular weight;DOC terms -- tf-idf;0;1.54;0.00;3;1;5;0.61
+min;DOC terms;0;8.12;0.19;3;1;5;0.61
+carbopac;common terms;1;3.24;0.05;2;3;4;0.61
+sodium acetate;DOC terms -- tf-idf;0;1.59;0.00;3;2;5;0.60
+photodiode;DOC terms -- LDA;0;0;0.04;1;2;2;0.60
+normalized;DOC terms -- LDA;0;0;0.06;1;2;2;0.60
+purified;DOC terms -- LDA;0;0;0.06;0;4;1;0.60
+profiles;DOC terms -- LDA;0;0;0.04;2;0;3;0.60
+running;DOC terms -- LDA;0;0;0.03;2;0;3;0.60
+sigma;DOC terms -- LDA;0;0;0.09;1;2;2;0.60
+added;DOC terms -- LDA;0;0;0.05;1;2;2;0.60
+material;DOC terms -- LDA;0;0;0.03;1;2;2;0.60
+washing;DOC terms -- LDA;0;0;0.03;1;2;2;0.60
+acetate;DOC terms;0;2.55;0.11;3;2;5;0.60
+conductivity;common terms;1;0.81;0.03;3;2;5;0.60
+samples;DOC terms;0;3.79;0.12;2;3;3;0.56
+acid;common terms;1;3.89;0.13;3;1;4;0.56
+chromeleon;common terms;1;0.75;0.04;3;2;4;0.56
+methionine;ROC terms;1;0.00;0.00;4;1;5;0.55
+isocratic elution;DOC terms -- tf-idf;0;1.59;0.00;3;3;4;0.55
+mobile phase;DOC terms -- tf-idf;0;1.58;0.00;4;1;5;0.55
+products;DOC terms;0;2.47;0.14;3;3;4;0.55
+isocratic;common terms;1;3.31;0.10;3;3;4;0.55
+solvent;common terms;1;2.30;0.14;4;1;5;0.55
+injection;common terms;1;2.22;0.13;3;3;4;0.55
+authentic standard;ROC terms;1;0.00;0.00;2;6;2;0.50
+column mm;DOC terms -- tf-idf;0;2.73;0.00;3;3;3;0.50
+column pharmacia;DOC terms -- tf-idf;0;1.21;0.00;3;3;3;0.50
+acn/water;DOC terms -- LDA;0;0;0.09;2;1;2;0.50
+v/v;DOC terms -- LDA;0;0;0.15;1;3;1;0.50
+mixing;DOC terms -- LDA;0;0;0.07;1;3;1;0.50
+membrane;DOC terms -- LDA;0;0;0.05;1;3;1;0.50
+range;DOC terms -- LDA;0;0;0.03;2;1;2;0.50
+values;DOC terms -- LDA;0;0;0.02;1;3;1;0.50
+distribution;DOC terms -- LDA;0;0;0.08;2;1;2;0.50
+monitored;DOC terms;0;3.04;0.02;4;1;4;0.50
+system;DOC terms;0;2.94;0.03;4;2;4;0.50
+molecular;DOC terms;0;2.48;0.14;4;1;4;0.50
+waters;common terms;1;3.11;0.10;4;2;4;0.50
+oligosaccharide;common terms;1;0.91;0.03;4;1;4;0.50
+silica;common terms;1;0.75;0.02;4;1;4;0.50
+uronic acid;common terms;1;0.57;0.05;3;4;3;0.50
+pressure;common terms;1;0.51;0.03;4;2;4;0.50
+carbopac pa;DOC terms -- tf-idf;0;2.47;0.00;4;3;3;0.45
+internal standard;DOC terms -- tf-idf;0;1.27;0.00;5;1;4;0.45
+elution place;DOC terms -- tf-idf;0;1.14;0.00;5;1;4;0.45
+eluted;DOC terms;0;2.92;0.03;5;1;4;0.45
+standard;DOC terms;0;2.12;0.02;5;1;4;0.45
+sample;common terms;1;3.00;0.03;5;1;4;0.45
+sec;common terms;1;1.70;0.08;5;1;4;0.45
+buffer ph;DOC terms -- tf-idf;0;2.19;0.00;3;4;2;0.44
+anion exchange;DOC terms -- tf-idf;0;1.37;0.00;3;4;2;0.44
+equilibrated;DOC terms;0;2.31;0.05;4;2;3;0.44
+anionexchange;common terms;1;1.46;0.03;3;4;2;0.44
+fractionation;common terms;1;0.49;0.02;3;4;2;0.44
+stirr;common terms;1;0.30;0.03;4;2;3;0.44
+mwco;common terms;1;0.28;0.03;4;2;3;0.44
+equilibrate;common terms;1;0.17;0.05;4;2;3;0.44
+mgml;common terms;1;0.05;0.03;3;4;2;0.44
+system equipped;DOC terms -- tf-idf;0;1.52;0.00;4;1;3;0.44
+vt;ROC terms;1;0.00;0.00;5;2;3;0.40
+radius;DOC terms -- LDA;0;0;0.05;1;4;0;0.40
+methanol:water;DOC terms -- LDA;0;0;0.04;2;2;1;0.40
+cross-linked;DOC terms -- LDA;0;0;0.03;3;0;2;0.40
+components;DOC terms -- LDA;0;0;0.03;3;0;2;0.40
+pooled;DOC terms -- LDA;0;0;0.08;2;2;1;0.40
+reconditioning;DOC terms -- LDA;0;0;0.04;2;2;1;0.40
+electrophoresis;DOC terms -- LDA;0;0;0.03;3;0;2;0.40
+mode;DOC terms -- LDA;0;0;0.03;2;2;1;0.40
+polysaccharide;common terms;1;0.66;0.03;5;2;3;0.40
+result;common terms;1;0.29;0.03;5;2;3;0.40
+guard column;DOC terms -- tf-idf;0;1.91;0.00;5;1;3;0.39
+flow;DOC terms;0;2.71;0.04;4;3;2;0.39
+detector;common terms;1;3.02;0.05;5;1;3;0.39
+sugar;common terms;1;1.53;0.05;5;1;3;0.39
+dilute;common terms;1;1.49;0.04;5;1;3;0.39
+hpaec;common terms;1;0.20;0.02;5;1;3;0.39
+particles;DOC terms -- LDA;0;0;0.04;1;3;0;0.38
+calibration;common terms;1;2.51;0.05;7;0;4;0.36
+weigh in;ROC terms;1;0.00;0.00;6;1;3;0.35
+sample ray;ROC terms;1;0.00;0.00;5;3;2;0.35
+inositol;common terms;1;0.65;0.04;6;1;3;0.35
+state;common terms;1;0.65;0.08;5;3;2;0.35
+%;ROC terms;1;0.00;0.00;4;0;2;0.33
+country;ROC terms;1;0.00;0.00;6;0;3;0.33
+ph;ROC terms;1;0.00;0.00;6;0;3;0.33
+psi;ROC terms;1;0.00;0.00;5;2;2;0.33
+fraction volume;ROC terms;1;0.00;0.00;6;0;3;0.33
+eluent A;DOC terms -- tf-idf;0;1.61;0.00;5;2;2;0.33
+ml isocratic;DOC terms -- tf-idf;0;1.16;0.00;5;2;2;0.33
+protein;DOC terms;0;3.14;0.08;5;2;2;0.33
+sizes;DOC terms;0;3.07;0.03;6;0;3;0.33
+equipped;DOC terms;0;2.97;0.03;5;2;2;0.33
+rate;DOC terms;0;2.82;0.04;6;0;3;0.33
+buffer;common terms;1;4.26;0.16;5;2;2;0.33
+detection;common terms;1;3.29;0.15;6;0;3;0.33
+acetonitrile;common terms;1;3.03;0.08;5;2;2;0.33
+separation;common terms;1;2.91;0.13;6;0;3;0.33
+tfa;common terms;1;1.94;0.05;6;0;3;0.33
+ammonium;common terms;1;1.42;0.06;4;4;1;0.33
+agilent;common terms;1;1.20;0.09;5;2;2;0.33
+exclusion;common terms;1;0.39;0.13;5;2;2;0.33
+ri;ROC terms;1;0.00;0.00;7;0;3;0.30
+pressure detector;ROC terms;1;0.00;0.00;6;2;2;0.30
+sodium nitrate;DOC terms -- tf-idf;0;1.49;0.00;7;0;3;0.30
+collision;DOC terms -- LDA;0;0;0.06;3;1;1;0.30
+conductivity;DOC terms -- LDA;0;0;0.03;3;1;1;0.30
+incubations;DOC terms -- LDA;0;0;0.07;3;1;1;0.30
+whey;DOC terms -- LDA;0;0;0.06;3;1;1;0.30
+calculated;DOC terms -- LDA;0;0;0.04;2;3;0;0.30
+programme;DOC terms -- LDA;0;0;0.03;3;1;1;0.30
+incubation;DOC terms -- LDA;0;0;0.03;3;1;1;0.30
+trap;DOC terms -- LDA;0;0;0.03;3;1;1;0.30
+size;common terms;1;3.07;0.04;7;0;3;0.30
+preparative;common terms;1;1.23;0.08;7;0;3;0.30
+molar;common terms;1;0.83;0.04;6;2;2;0.30
+beh;common terms;1;0.68;0.04;5;4;1;0.30
+pore size;common terms;1;0.42;0.04;6;2;2;0.30
+g pwxl;DOC terms -- tf-idf;0;1.99;0.00;6;1;2;0.28
+exclusion chromatography;DOC terms -- tf-idf;0;1.96;0.00;6;1;2;0.28
+mm mm;DOC terms -- tf-idf;0;1.92;0.00;5;3;1;0.28
+acn min;DOC terms -- tf-idf;0;1.23;0.00;5;3;1;0.28
+pwxl g;DOC terms -- tf-idf;0;1.17;0.00;6;1;2;0.28
+analysis;DOC terms;0;2.66;0.05;6;1;2;0.28
+curve;common terms;1;0.57;0.02;6;1;2;0.28
+equilibrium;common terms;1;0.15;0.02;6;1;2;0.28
+injection volume;DOC terms -- tf-idf;0;1.10;0.00;7;1;2;0.25
+autosampler;common terms;1;1.23;0.02;5;2;1;0.25
+acetic acid;common terms;1;0.05;0.04;4;4;0;0.25
+c18;ROC terms;1;0.00;0.00;5;4;0;0.22
+channel;ROC terms;1;0.00;0.00;5;4;0;0.22
+kw803;ROC terms;1;0.00;0.00;7;0;2;0.22
+mannose;ROC terms;1;0.00;0.00;6;2;1;0.22
+protocol;ROC terms;1;0.00;0.00;6;2;1;0.22
+fraction size;ROC terms;1;0.00;0.00;6;2;1;0.22
+uppsala;DOC terms -- tf-idf;0;2.24;0.00;6;2;1;0.22
+mm id;DOC terms -- tf-idf;0;2.20;0.00;7;0;2;0.22
+min min;DOC terms -- tf-idf;0;2.03;0.00;7;0;2;0.22
+liquid chromatography;DOC terms -- tf-idf;0;1.97;0.00;7;0;2;0.22
+min isocratic;DOC terms -- tf-idf;0;1.96;0.00;7;0;2;0.22
+uppsala sweden;DOC terms -- tf-idf;0;1.71;0.00;6;2;1;0.22
+shodex ri;DOC terms -- tf-idf;0;1.68;0.00;6;2;1;0.22
+exchange chromatography;DOC terms -- tf-idf;0;1.42;0.00;6;2;1;0.22
+ml eluent;DOC terms -- tf-idf;0;1.23;0.00;6;2;1;0.22
+fractions collected;DOC terms -- tf-idf;0;1.15;0.00;6;2;1;0.22
+sodium;DOC terms;0;3.89;0.14;6;2;1;0.22
+fractions;DOC terms;0;3.25;0.04;7;0;2;0.22
+japan;DOC terms;0;3.09;0.05;6;2;1;0.22
+applied;DOC terms;0;2.68;0.03;5;4;0;0.22
+set;DOC terms;0;2.1;0.02;5;4;0;0.22
+mlmin;common terms;1;2.81;0.02;7;0;2;0.22
+place;common terms;1;1.70;0.01;6;2;1;0.22
+methanol;common terms;1;1.41;0.05;6;2;1;0.22
+galacturonic acid;common terms;1;0.99;0.03;6;2;1;0.22
+malls;common terms;1;0.55;0.02;6;2;1;0.22
+preparation;common terms;1;0.53;0.02;6;2;1;0.22
+reversed phase;common terms;1;0.44;0.05;7;0;2;0.22
+equipment;common terms;1;0.35;0.02;7;0;2;0.22
+elsd;DOC terms -- LDA;0;0;0.07;4;0;1;0.20
+lactoglobulin;DOC terms -- LDA;0;0;0.06;4;0;1;0.20
+nmr;DOC terms -- LDA;0;0;0.06;4;0;1;0.20
+evaporative;DOC terms -- LDA;0;0;0.05;4;0;1;0.20
+diode;DOC terms -- LDA;0;0;0.02;3;2;0;0.20
+seeds;DOC terms -- LDA;0;0;0.07;4;0;1;0.20
+pretreated;DOC terms -- LDA;0;0;0.04;3;2;0;0.20
+substrate;DOC terms -- LDA;0;0;0.03;4;0;1;0.20
+abundance;common terms;1;0.07;0.05;8;0;2;0.20
+mq;ROC terms;1;0.00;0.00;7;1;1;0.17
+supply;ROC terms;1;0.00;0.00;7;1;1;0.17
+v0;ROC terms;1;0.00;0.00;7;1;1;0.17
+superdex200;ROC terms;1;0.00;0.00;7;1;1;0.17
+preparative LC;ROC terms;1;0.00;0.00;7;1;1;0.17
+naoh min;DOC terms -- tf-idf;0;2.44;0.00;7;1;1;0.17
+rate mlmin;DOC terms -- tf-idf;0;2.27;0.00;7;1;1;0.17
+min linear;DOC terms -- tf-idf;0;2.11;0.00;7;1;1;0.17
+sunnyvale;DOC terms -- tf-idf;0;2.03;0.00;7;1;1;0.17
+separation products;DOC terms -- tf-idf;0;1.54;0.00;7;1;1;0.17
+amperometric detection;DOC terms -- tf-idf;0;1.44;0.00;7;1;1;0.17
+akta purifier;DOC terms -- tf-idf;0;1.28;0.00;7;1;1;0.17
+kda;DOC terms;0;4.52;0.22;7;1;1;0.17
+pwxl;DOC terms;0;3.22;0.10;7;1;1;0.17
+liquid;DOC terms;0;2.42;0.05;7;1;1;0.17
+collected;DOC terms;0;2.19;0.03;7;1;1;0.17
+eluent;common terms;1;4.44;0.03;7;1;1;0.17
+volume;common terms;1;2.31;0.15;7;1;1;0.17
+purification;common terms;1;1.07;0.05;7;1;1;0.17
+urea;common terms;1;0.92;0.03;7;1;1;0.17
+filter;common terms;1;0.80;0.04;7;1;1;0.17
+manufacturer;common terms;1;0.31;0.03;7;1;1;0.17
+retention ime;common terms;1;0.24;0.03;7;1;1;0.17
+centrifuge;common terms;1;0.10;0.03;6;3;0;0.17
+clean;common terms;1;0.08;0.03;7;1;1;0.17
+copper;ROC terms;1;0.00;0.00;8;1;1;0.15
+linear gradient;DOC terms -- tf-idf;0;2.18;0.00;8;1;1;0.15
+linear;common terms;1;3.22;0.13;8;1;1;0.15
+superdex;common terms;1;2.49;0.04;8;1;1;0.15
+area;common terms;1;1.10;0.05;8;1;1;0.15
+charge;common terms;1;0.32;0.02;7;3;0;0.15
+cv;ROC terms;1;0.00;0.00;6;2;0;0.13
+cid;ROC terms;1;0.00;0.00;7;2;0;0.11
+cmh;ROC terms;1;0.00;0.00;7;2;0;0.11
+beh amide column;ROC terms;1;0.00;0.00;8;0;1;0.11
+nano meter;ROC terms;1;0.00;0.00;8;0;1;0.11
+eluate monitored;DOC terms -- tf-idf;0;1.99;0.00;7;2;0;0.11
+rate ml;DOC terms -- tf-idf;0;1.85;0.00;8;0;1;0.11
+monitored nm;DOC terms -- tf-idf;0;1.70;0.00;8;0;1;0.11
+pa column;DOC terms -- tf-idf;0;1.61;0.00;7;2;0;0.11
+id mm;DOC terms -- tf-idf;0;1.59;0.00;8;0;1;0.11
+hplc system;DOC terms -- tf-idf;0;1.55;0.00;8;0;1;0.11
+hpsec performed;DOC terms -- tf-idf;0;1.17;0.00;8;0;1;0.11
+particle size;DOC terms -- tf-idf;0;1.17;0.00;8;0;1;0.11
+monitored refractive;DOC terms -- tf-idf;0;1.12;0.00;8;0;1;0.11
+ph m;DOC terms -- tf-idf;0;1.12;0.00;8;0;1;0.11
+performed;DOC terms;0;3.72;0.10;7;2;0;0.11
+nacl;DOC terms;0;3.02;0.03;7;2;0;0.11
+gel;DOC terms;0;2.93;0.04;8;0;1;0.11
+index;DOC terms;0;2.93;0.03;8;0;1;0.11
+thermo;DOC terms;0;2.87;0.03;7;2;0;0.11
+eluate;DOC terms;0;2.57;0.07;8;0;1;0.11
+guard;DOC terms;0;2.35;0.03;8;0;1;0.11
+combination;DOC terms;0;2.27;0.07;8;0;1;0.11
+injected;DOC terms;0;2.23;0.04;8;0;1;0.11
+mass;DOC terms;0;2.19;0.03;8;0;1;0.11
+performance;DOC terms;0;2.02;0.04;7;2;0;0.11
+phosphate;common terms;1;2.17;0.08;7;2;0;0.11
+peak;common terms;1;1.59;0.02;7;2;0;0.11
+pump;common terms;1;1.48;0.04;8;0;1;0.11
+minutes;common terms;1;1.31;0.10;8;0;1;0.11
+neutral;common terms;1;0.84;0.04;8;0;1;0.11
+quantification;common terms;1;0.58;0.03;8;0;1;0.11
+arabinose;common terms;1;0.50;0.02;7;2;0;0.11
+affinity chromatography;common terms;1;0.25;0.03;7;2;0;0.11
+refractiveindex;common terms;1;0.18;0.08;8;0;1;0.11
+signal;common terms;1;0.16;0.01;8;0;1;0.11
+dissolve;common terms;1;0.14;0.05;7;2;0;0.11
+bio-rad;DOC terms -- LDA;0;0;0.10;4;1;0;0.10
+chrompack;DOC terms -- LDA;0;0;0.08;4;1;0;0.10
+sheath;DOC terms -- LDA;0;0;0.06;4;1;0;0.10
+pwx-guard;DOC terms -- LDA;0;0;0.05;4;1;0;0.10
+corporation;DOC terms -- LDA;0;0;0.09;4;1;0;0.10
+u/ml;DOC terms -- LDA;0;0;0.04;4;1;0;0.10
+controller;DOC terms -- LDA;0;0;0.02;4;1;0;0.10
+prior;DOC terms -- LDA;0;0;0.01;4;1;0;0.10
+co2;ROC terms;1;0.00;0.00;8;1;0;0.06
+aluminium cap;ROC terms;1;0.00;0.00;8;1;0;0.06
+nanolc;ROC terms;1;0.00;0.00;8;1;0;0.06
+glucoronic acid;ROC terms;1;0.00;0.00;8;1;0;0.06
+time shifting;ROC terms;1;0.00;0.00;8;1;0;0.06
+high performance;DOC terms -- tf-idf;0;1.70;0.00;8;1;0;0.06
+phosphate buffer;DOC terms -- tf-idf;0;1.28;0.00;8;1;0;0.06
+monomeric sugars;DOC terms -- tf-idf;0;1.26;0.00;8;1;0;0.06
+usa;DOC terms;0;3.75;0.06;8;1;0;0.06
+naoac;DOC terms;0;3.32;0.05;8;1;0;0.06
+healthcare;DOC terms;0;2.75;0.07;8;1;0;0.06
+shodex;DOC terms;0;2.57;0.03;8;1;0;0.06
+amersham;DOC terms;0;2.53;0.04;8;1;0;0.06
+naoh;common terms;1;5.78;0.12;8;1;0;0.06
+temperature;common terms;1;3.30;0.04;8;1;0;0.06
+supernatant;common terms;1;1.11;0.03;8;1;0;0.06
+pda;common terms;1;1.03;0.06;8;1;0;0.06
+amide;common terms;1;0.55;0.04;8;1;0;0.06
+graph;common terms;1;0.31;0.03;8;1;0;0.06
+control;common terms;1;0.21;0.02;8;1;0;0.06
+ri detector;DOC terms -- tf-idf;0;1.20;0.00;9;1;0;0.05
+series;DOC terms;0;2.68;0.08;9;1;0;0.05
+dls;ROC terms;1;0.00;0.00;9;0;0;0
+valve;ROC terms;1;0.00;0.00;9;0;0;0
+polyphenols;ROC terms;1;0.00;0.00;9;0;0;0
+ligand binding chromatography;ROC terms;1;0.00;0.00;9;0;0;0
+normal phase;ROC terms;1;0.00;0.00;9;0;0;0
+tray emperature;ROC terms;1;0.00;0.00;9;0;0;0
+non reducing;ROC terms;1;0.00;0.00;9;0;0;0
+ucu;DOC terms -- tf-idf;0;3.11;0.00;9;0;0;0
+min mm;DOC terms -- tf-idf;0;2.36;0.00;9;0;0;0
+pulsed amperometric;DOC terms -- tf-idf;0;1.49;0.00;9;0;0;0
+showa denko;DOC terms -- tf-idf;0;1.47;0.00;9;0;0;0
+gradient min;DOC terms -- tf-idf;0;1.24;0.00;8;0;0;0
+carrier gas;DOC terms -- tf-idf;0;1.18;0.00;9;0;0;0
+superdex column;DOC terms -- tf-idf;0;1.15;0.00;9;0;0;0
+metrohm;DOC terms -- LDA;0;0;0.04;5;0;0;0
+chlorophyll;DOC terms -- LDA;0;0;0.04;5;0;0;0
+x-terra;DOC terms -- LDA;0;0;0.03;5;0;0;0
+saponified;DOC terms -- LDA;0;0;0.03;5;0;0;0
+tosohaas;DOC terms;0;3.01;0.07;9;0;0;0
+pharmacia;DOC terms;0;2.96;0.04;9;0;0;0
+refractive;DOC terms;0;2.87;0.03;9;0;0;0
+carried;DOC terms;0;2.17;0.03;8;0;0;0
+gas;common terms;1;4.06;0.11;9;0;0;0
+gradient;common terms;1;3.55;0.06;9;0;0;0
+water;common terms;1;3.11;0.13;9;0;0;0
+precolumn;common terms;1;1.12;0.03;9;0;0;0
+alditol acetate;common terms;1;0.97;0.06;9;0;0;0
+glucose;common terms;1;0.94;0.03;9;0;0;0
+phase;common terms;1;0.91;0.03;9;0;0;0
+identification;common terms;1;0.47;0.07;9;0;0;0
+extraction;common terms;1;0.39;0.02;9;0;0;0
+gcms;common terms;1;0.24;0.03;9;0;0;0
+ionic strength;common terms;1;0.23;0.02;9;0;0;0
