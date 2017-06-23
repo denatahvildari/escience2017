@@ -1,0 +1,2 @@
+For determining the sugar composition, samples were pre-hydrolysed using 72% w/w sulfuric acid at 30C
+for 1 h and subsequently hydrolyzed with 1 M H2 SO4  at 100  C for 3 h.29  Afterwards the sugars were derivatised to their alditol acetates and determined by gas chromatography30  using inositol as internal standard.

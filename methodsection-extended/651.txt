@@ -1,0 +1,7 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 Calibri;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22\fsmilli11040 \cf0 The mixture was centrifuged at 20,000 g for 5 min prior to injection to a PLRP-S 300 \'c5 column (4.6 mm \'d7250 mm) packed with 5 \uc0\u956 m reversed-phase material (Polymer Laboratories, Church Stretton, UK), using a Waters 600E HPLC (Waters, Milford, Mass.) equipped with a Dilutor 401 injector (Gilson, Villiers-le-Bel, France) and an FL2000 fluorometer-detector (Spectra Physics, Darmstadt, Germany) (excitation at 390 nm, emission measured at 480 nm). The elution solvent A is 5% (v/v) aqueous acetonitrile, 0.25% (v/v) glacial acetic acid, pH 3.5, and solvent B is 90% acetonitrile and 0.25% glacial acetic acid in water. The following elution profile was used. Isocratic conditions (100% solvent A) were maintained for 2 min, stepping directly to 35% solvent B in 35 min and to 100% solvent B in further 3 min and maintained for 5 min, followed by an immediate return to initial conditions for re-equilibration (15 min) before loading the next sample. Flow rate was maintained at 1 ml min\u8722 1 throughout.}

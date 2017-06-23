@@ -1,0 +1,14 @@
+Samples were analyzed on a HPLC system from Thermo
+Separation Products (Waltham, MA, USA) equipped with a
+membrane degasser, P4000 pump, AS3000 autosampler, and
+a UV3000 detector. Samples of 20 mL were injected onto a
+Waters XTerra C18MScolumn (4.6150mm, 3.5 mmparticle
+size) with a guard column (XTerra C18 MS, 4.610 mm,
+3.5mm particle size; Waters, Milford, MA, USA). Water and
+acetonitrile (ACN), both acidified with 0.1% (v/v) acetic acid,
+were used as eluents. The flow rate was 0.7 mL/min, and the
+eluate was monitored at 280 nm. The flowing gradient used
+was: 0???30 min, linear from 10%???50% (v/v) ACN; 30???45 min,
+linear from 50%???100% ACN; 45???50 min, isocratic on 100%
+ACN; 50???55 min, linear from 100%???10% ACN; 55???60 min,
+isocratic on 10% ACN.

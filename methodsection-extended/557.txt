@@ -1,0 +1,7 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fswiss\fcharset0 ArialMT;}
+{\colortbl;\red255\green255\blue255;\red51\green51\blue51;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs32\fsmilli16080 \cf2 HPAEC was performed on a GP40 gradient pump system (Dionex) equipped with a carboPac PA 100 column (4\'a0mm\'a0\'d7\'a0250\'a0mm; Dionex) at 35\'a0\'b0C. The flow rate was 1.0\'a0mL/min, and 20-\uc0\u956 L samples was injected with Dionex AS3500 automated sampler. Two eluents were used, eluent A (100\'a0mm NaOH) and eluent B (1\'a0m\'a0NaAc in 100\'a0mm NaOH), for mixing the following gradient: 0\u8594 5\'a0min, 100% eluent B (rinsing phase); 5\u8594 20\'a0min, 100% eluent A (conditioning phase); 20\u8594 25\'a0min, linear gradient from 0\u8594 20% eluent B (100\u8594 80% eluent A); 25\u8594 50\'a0min, linear gradient from 20\u8594 35% eluent B (80\u8594 65% eluent A); 50\u8594 55\'a0min, linear gradient from 35\u8594 50% eluent B (65\u8594 50% eluent A); 55\u8594 60\'a0min, 50% eluent B (50% eluent A). The sample was injected at 20\'a0min. The eluent was monitored by ED40 electrochemical detector in the pulsed amperometric mode (Dionex).}

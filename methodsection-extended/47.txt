@@ -1,0 +1,7 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 Calibri;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22\fsmilli11040 \cf0 A GC-8000top gas chromatograph (CE Instru-ments, Milan, Italy) was equipped with a CP-SIL 5 CB low bleed column (30 m \'d7 0.25 mm,film thickness: 1.0 mm, Chrompack, Mid-delburg, The Netherlands) and a flame ion-ization detector (FID). The oven tempera-ture was initially 40 \'b0C for 2 min, thenincreasing by 25 \'b0C/min to 250 \'b0C and was kept at 250 \'b0C for 10 min. Inlet and detectortemperatures were 250 and 270 \'b0C, respec-tively. Gas flow rates were as follows: hydro-gen, 35 mL/min; air 350 mL/min, make-upnitrogen, 30 mL/min. }

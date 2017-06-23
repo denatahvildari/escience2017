@@ -1,0 +1,13 @@
+High-performance size exclusion chromatography
+analysis The size distribution and the molecular weight of
+the heparosan polymers were analyzed by HPSEC on an
+Ultimate 3000 (Dionex, Sunnyvale, USA) using three
+TosoH Bioscience TSK-gel columns in series (4000, 3000,
+and 2500 Super AW, 150??~6.0 mm) preceded by a TSK AWL
+guard column (35??~4.6 mm; TosoH Bioscience, Japan) as
+previously described (Chavaroche et al. 2011). For each
+HPSEC analysis, the molecular weight and the size distribution
+of the samples were determined by fitting to a logarithmic
+model the elution time of the hyaluronan molecular
+mass markers (30, 160, and 262 kDa, Hyalose) (Chavaroche
+et al. 2010).

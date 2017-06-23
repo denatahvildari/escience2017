@@ -1,0 +1,2 @@
+This was checked using gel-permeation chromatography on a Superdex-75 column ran in 10mM Hepes buffer (pH 7.2), containing 50mM NaCl to prevent nonspecific interactions with the column material. Under these conditions all b -Lg variants proteins eluted as single symmetric peaks representing the dimer form of the  protein with an apparent mass of 36 kDa based on elution profiles of calibration proteins (results not
+shown).

@@ -1,0 +1,4 @@
+ Nitrate and phosphate were measured in an ionchromatograph
+(Dionex AS50, column type IonPac AS17, 250/ 4 mm). The eluent used was potassium hydroxide
+in ultrapure water (Millipore) and the gradient was as follows: 1 mM from 0 to 3 min, 1/ 12 mM from 3 to 10 min, 12/ 35 mM from 10 to 14 min, at a flow rate of 1.5 ml min1 . Detection was by suppressed conductivity, ASRS??? -ULTRA, AutoSuppression???  recycle mode. Algal suspensions were centrifuged (20 627/g , 10 min) in Eppendorf tubes and the supernatant stored at / 20 8 C until use. Samples were diluted with ultrapure water
+Millipore).

@@ -1,0 +1,23 @@
+The total lipid fraction was derivatized by mild alkaline methanolysis to
+obtain fatty acid methyl esters (FAME). Both C12:0 and
+C19:0 were used as internal FAME standards. Identification
+of the fatty acids was done using equivalent chain length data
+with known standards measured on a non-polar column.
+Additional identification was done using GC/MS. Carbon
+isotopic composition of individual FAME was determined
+with a gas-chromatograph combustion-interface isotoperatio
+mass spectrometer (GC-c-IRMS); a HP G1530 GC
+(Hewlett Packard) connected to Delta-plus IRMS via a type-
+III combustion interface from Thermo Finnigan (Bremen).
+Helium was used as a carrier gas (150 kPa) with an apolar
+column (Hewlett-Packard HP-5MS, 60 m*0.32 mm
+*0.25 l m). The column was kept at 70 C for 2 min, then
+temperature was programed from 70 to 150 C at 20 C
+min-1 , subsequently from 150 to 290 C at 3 C min-1  and
+from 290 C to 325 C at 5 C min-1 , temperature was kept at
+325 C for 11 min. Fatty acid concentrations were determined
+by area correction according to the C19:0 internal
+standard. Stable carbon isotope ratios (13 C/12 C) for individual
+FAwere calculated fromFAME data by correcting for
+the one carbon atom in the methyl group that was added
+during derivatization (Middelburg et al. 2000 ).

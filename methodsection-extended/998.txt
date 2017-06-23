@@ -1,0 +1,11 @@
+High-Performance Liquid Chromatography (HPLC). The composition
+of the whey protein samples was analyzed by HPLC, using a
+Shodex KW 803 column at a flow rate of 0.6 mL/min (eluent 60%
+MilliQ water, 40% acetonitrile, and 0.1% trifluoroacetic acid) with
+detection at a wavelength of 220 nm. The samples were diluted with
+eluent containing 8 M urea and filtered over 0.22 ??m membranes. For
+data collection and calculation of the separate whey proteins in the
+samples, PC1000 software (Thermo Separation Products GmbH,
+Darmstadt, Germany) was used. The amounts of the separate whey
+proteins were calculated using the area under the graphs, as calculated
+with the software, after calibration with external standards.

@@ -1,0 +1,18 @@
+For determining the relation between the size and molar mass
+of the species present in the final cross-linked reaction product, the
+latter was separated into chromatographic fractions on a Sephacryl S-500HR (GE Healthcare) column (exclusion limit is between 4  104 and 2  107 kDa for Dextran standards), connected to an AKTA purifier system (GE Healthcare). A volume of 100 mL of final
+reaction product was injected onto the column, and eluted with
+0.1MNH4Ac (pH 6.8), at room temperature, at a flowrate of 0.8 mL/
+min. Prior to injection, the column was equilibrated with elution
+buffer. Detection was done using at 280 nm and 318 nm. Fractions
+of 0.5 mL were collected for elution volumes from 8 mL to 18 mL.
+For the light scattering analysis, the fractions were concentrated
+about 10 times using Amicon Ultra centrifugal filters (Cat No.
+UFC8000396). The protein concentration of the concentrated
+fractions was determined spectroscopically at 280 nm (see sample
+preparation). Static and dynamic light scattering experiments were
+done on each of the concentrated fractions using a Malvern
+Nanosizer ZS (Malvern) equipped with an Argon ion laser emitting
+vertically polarized light with a wavelength of 633 nm. The scattering
+angle was 12.8. Hydrodynamic radii RH reported are the major peak from the peak analysis as performed by the Malvern DTS software, version 6.20. Weight-averaged molar masses Mw were determined from the static light scattering intensities using the Rayleigh expression
+KRC Rq . 1 Mw (1) where C is the weight concentration.

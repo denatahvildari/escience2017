@@ -1,0 +1,9 @@
+Gel permeation chromatography
+The aggregation state of non-network protein was
+analyzed at 20 8C by gel permeation chromatography
+using a Superdex 200 column 10/30 (Pharmacia, Uppsala,
+Sweden) attached to an FPLC system (Pharmacia, Uppsala,
+Sweden). The elution buffer was equal to the sample buffer.
+The flow rate was 1 ml/min and the eluate was monitored at
+280 nm. The column was calibrated with a high molecular
+weight gel filtration calibration kit (Pharmacia).

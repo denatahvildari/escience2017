@@ -1,0 +1,4 @@
+2.12. High Performance Size Exclusion Chromatography (HPSEC)
+HPSEC was performed according to Verhoef et al. [26] using three TosoH
+Biosep-TSK-Gel G columns in series (4000PWXL-415 3000PWXL-2500PWXL, each
+300mm????7.5mm; TosoH, Japan). Sample (50L) was injected and eluted at 30 ???C using 0.8 mL/min 0.2M NaNO3. Detection was performed using a Shodex RI 71 refractive index detector (Showa Denko K.K., Japan).

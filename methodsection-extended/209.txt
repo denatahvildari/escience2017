@@ -1,0 +1,12 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 Calibri;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22\fsmilli11040 \cf0 To obtain series of more defined ovalbumin variants,\
+ion exchange chromatography (Biopilot, Pharmacia, MN) was used with\
+a Source Q 900 mL column. A 200 mL amount of a 5 mg/mL protein\
+solution in 10 mM sodium phosphate buffer was applied to the column\
+at a flow rate of 15 mL/min and eluted using a gradient from 0.08 M\
+NaCl, pH 6.0, to 1.00 M NaCl, pH 6.0}

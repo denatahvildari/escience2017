@@ -1,0 +1,21 @@
+High-performance anion exchange chromatography
+(HPAEC) was performed on a Dionex
+(United States) HPLC system. The system was
+equipped with a quaternary gradient pump, an
+AS3000 autosampler complete with a helium
+degassing unit, and an ED40 EC detector in a
+pulsed amperometric detection mode (PAD) mode.
+A CarboPac PA1 column (2 3  250 mm; Dionex)
+with a CarboPac PA1 guard column (2 3  50 mm;
+Dionex) was operated at a flow rate of 0.3 mL/min
+at 20 8 C. The gradient was obtained by solutions
+of 1 M NaOAc in 0.1 M NaOH being mixed with
+0.1 M NaOH. After 15 min of equilibration with
+0.1 M NaOH, 20 l L of the sample was injected,
+and a linear gradient to 0.50 M NaOAc in 0.1 M
+NaOH within 30 min was followed by a linear
+gradient in 5 min to 1 M NaOAc in 0.1 M NaOH.
+Finally, the column was washed for 5 min with 1
+M NaOAc in 0.1 M NaOH. The data were processed
+with a Chromeleon (Dionix) data handling
+system.

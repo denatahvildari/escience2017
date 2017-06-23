@@ -1,0 +1,16 @@
+Analytical methods
+For the analysis of monomeric sugars, the fermentation
+broth samples were centrifuged (3 min at 17,400??~g), and
+the pH of the supernatant was adjusted to 5.0 with barium
+carbonate using a pH indicator (Bromophenolblue) followed
+by filtration of the liquid. The analysis was
+performed by high-performance anion-exchange chromatography
+using a Carbopack PA1 column (column temperature
+of 30??C) and a pulsed amperometric detector (ED50;
+Dionex, Sunnyvale, CA, USA). Before injection, the
+system was equilibrated with 25.5 mM NaOH for 10 min
+at a flow rate of 1.0 ml/min. For the separation of
+monomeric sugars, at injection, the mobile phase was
+shifted to deionized water for 30 min. Postcolumn addition
+of sodium hydroxide was used for detection of the neutral
+monomeric sugars.

@@ -1,0 +1,7 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 Calibri;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22\fsmilli11040 \cf0 Mate extract was fractionated using a 12 g Reveleris C18 column on a Reveleris flash chromatography system (Grace, Deerfield, IL, USA) operated at 30 mL/min. Twenty milliliters of a 30 g/L solution of mate extract in MQ was applied onto the column. Water acidified with 0.1% (v/v) acetic acid, eluent A, and ACN acidified with 0.1% (v/v) acetic acid, eluent B, were used as eluents. The following elution profile was used: 0\uc0\u8722 2 min, isocratic on 0% (v/v) B; 2\u8722 3 min, linear gradient from 0 to 30% (v/v) B; 3\u8722 8 min, isocratic at 30% (v/v) B; 8\u8722 13 min, linear gradient from 30 to 100% (v/v) B; 13\u8722 15 min, isocratic at 100% (v/v) B. Fractions of 10 mL were collected and pooled on the basis of RP-UHPLC-MS analysis. }

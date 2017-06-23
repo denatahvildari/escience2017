@@ -1,0 +1,23 @@
+RP-UHPLC analysis
+Samples were analysed on a Thermo Accela UHPLC system (San Jose, CA, USA) equipped with pump, autosampler and PDA detector. Samples (1mL) were injected on a Waters
+Acquity UPLC BEH shield RP18 column (2.1150mm,
+1.7mmparticle size) with a Waters Acquity UPLC shield RP18
+Vanguard pre-column (2.15 mm, 1.7mm particle size;
+Waters, Milford, MA, USA). Water acidified with 0.1% (v/
+v) acetic acid, eluent A, and ACN acidified with 0.1% (v/v)
+acetic acid, eluent B, were used as eluents. The flow rate was
+300 mL min 1, the column oven temperature was controlled at
+258C, and the PDA detector was set to measure the range
+200???400 nm. The following elution profile was used: 0???2 min,
+linear gradient from 10%???25% (v/v) B; 2???9 min, linear
+gradient from 25%???50% (v/v) B; 9???12 min, isocratic on 50%
+B; 12???22 min, linear gradient from 50%???100% (v/v) B;
+22???25 min, isocratic on 100% B; 25???27 min, linear gradient
+from 100%???10% (v/v) B; 27???29 min, isocratic on 10% (v/v) B.
+Most settings were optimised via automatic tuning
+using ???Tune Plus??? (Xcalibur 2.07, Thermo Scientific). To this
+end, the system was tuned with genistein in both positive
+ionisation (PI) and negative ionisation (NI) mode. For both
+modes, the ion transfer tube temperature was 3508C and the
+source voltage 4.8 kV. Data acquisition and reprocessing were
+done with Xcalibur 2.07 (Thermo Scientific).

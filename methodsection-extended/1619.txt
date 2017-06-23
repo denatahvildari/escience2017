@@ -1,0 +1,45 @@
+The amount of total fatty acids and the fatty-acid composition
+were analyzed using a modified gas chromatography method
+[128]. Saponification reagent (1.2 ml of 3.75 M NaOH in 50/
+50 v/v methanol/water) was added to 12 mg freeze-dried biomass
+to liberate the fatty acid from cellular lipid. After vortex
+mixing for 10 sec the samples were placed at 100??C for 30
+min. After cooling for 15 min to room temperature, 2.4 ml of
+methylation reagent (3.25 M HCl in methanol) was added and
+after vortex mixing for 10 sec the samples were placed at 80??C
+for 20 min. After cooling down to room temperature, the
+fatty-acid methyl esters were extracted by adding 1.5 ml hexane
+reagent (50/50 v/v hexane/methyl tertiary butyl ether).
+Samples were mixed for 15 min and centrifuged (3 min, 1,834
+g). The aqueous layer was removed and the organic phase was
+washed by adding 3.0 ml washing agent (0.3 M NaOH). The
+samples were mixed for 5 min and centrifuged again (3 min,
+1,834 g). The organic phase was finally transferred to a gas
+chromatograph vial and analyzed using a 6890 Agilent gas
+chromatograph [129]. The standards and samples were
+injected into the gas chromatograph equipped with a flame
+ionization detector via an automated sequence run. An Agilent
+19091B-102 capillary column (Ultra 2; 5% Phe-methylsiloxane;
+25 m ??~ 0.200 mm; film thickness 0.33 ??m) was used.
+Oven temperature was programmed as follows: 60??C, hold 3
+min; 280??C at 25??C/min, hold 4 min; 320??C at 15??C/min,
+hold 2 min; 340??C at 20??C/min, hold 0 min). The injector
+temperature was set at 275??C and detector temperature was
+set at 375??C. Helium was used as carrier gas at a constant
+flow-application of 2.0 ml/min. Fatty-acid methyl esters were
+identified by their retention times in comparison to those of a
+commercial standard (Microbial ID, Inc., Newark, DE, USA).
+Calibration curves of pure fatty acids present in N. meningitidis
+were made based on the identified fatty acids [128] and
+confirmed in literature [130]. The pure fatty acids used as calibration
+standards were dissolved in dichloromethane
+(Sigma, St Louis, MO). All fatty acids were purchased from
+Sigma, except for palmitelaidic acid (C16:1-trans 9) which
+was purchased from ICN Biomedicals (MP Biomedicals,
+Irvine, CA). Hydroxy-fatty acids were quantified using C12:0-
+2OH as an internal standard, whereas non-hydroxy-fatty
+acids have been quantified using C15:0 as an internal standard.
+The measured fatty-acid concentrations were corrected
+for salt present in the freeze-dried biomass. The measured
+fatty-acid composition and the assembly into lipid can be
+found in Additional data file 2.

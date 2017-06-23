@@ -1,0 +1,58 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\f0\fs24 \cf0 Preparative isolation by reversed phase high pressure liquid\
+chromatography AWaters (Milford, MA, USA) system equipped with a 2767 sample manager, a 2525 binary gradient module, a 2996 photodiode\
+array detector (PDA) and a UV fraction manager was used. Separation\
+was performed on a XterraRPC18 19 mm ID  150 mm column\
+with 5 lm particle size (Waters). The binary mobile phase\
+consisted of (A) H2O + 1% (v/v) acetonitrile + 0.1% (v/v) HOAc and\
+(B) acetonitrile + 0.1% (v/v) HOAc. The elution profile was as follows:\
+The first minute isocratic on 10% B; 1.0???61.0 min, B linearly\
+from 10% to 22%; 61.0???61.5 min, B linearly from 22% to 100%;\
+61.5???64.0 min, isocratic on 100% B; 64.0???64.5 min, B linearly from\
+100% to 10% followed by reconditioning of the column. The flow\
+rate was 12 mL/min. PDA spectra were recorded from 200???600 nm.\
+Bio-Gel P2 sample C (45.7 mg) dissolved in 2 mL H2O was separated\
+in two runs (1 mL sample each run). For Bio-Gel P2 sample E\
+in total 26.4 mg was dissolved in 1 mL H2O and separated within\
+one run. Fractions of 6 mL were collected and pooled on the basis\
+of the PDA spectrum. The fractions that were obtained from injection\
+of sample C are: (CI) 15.5???17.0 + 18.5???20.0 min and (CII) 39.0???\
+44.5 min. The fractions that were obtained from injection of\
+sample E are; (EI) 18.5???21.0 + 21.5???23.5 min and (EII) 24.0???\
+25.5 + 26.5???28.0 min. Each fraction was rotary evaporated and\
+subsequently lyophilized. 2.5. Analytical reversed phase UHPLC\
+Analysis of ferulic acid, feruloylated oligosaccharides, and\
+reducing end labeled oligosaccharides was performed on an Accela\
+UHPLC system equipped with an Accela pump, column oven\
+(30 C), temperature controlled autosampler (10 C), and a photodiode\
+array detector (Thermo Scientific, Waltham, MA, USA). The\
+system was controlled by Xcalibur software. The column used\
+was a Hypersyl GOLD, 1.9 mm ID  150 mm column with 1.9 lm\
+particle size (Thermo Scientific). The mobile phase was composed\
+of (A) H2O + 1% (v/v) acetonitrile + 0.1???0.2% (v/v) HOAc, and (B)\
+acetonitrile + 0.1???0.2% (v/v) HOAc. The flow rate was 400 lL/min.\
+Three different gradients were used. The first gradient (with 0.2%\
+(v/v) HOAc) was used to determine ferulic acid release by feruloyl\
+esterase present in Ultraflo L and AG-II-Hydrolase. The first three\
+min isocratic on 4% B; 3.0???21.0 min, B linearly from 4% to 40%;\
+21.0???21.5 min, B linearly from 40% to 100%; 21.5???23.0 min, isocratic\
+on 100% B; 23.0???23.5 min, B linearly from 100% to 4% followed\
+by reconditioning of the column. The second gradient\
+(with 0.1% (v/v) HOAc) to separate feruloylated oligosaccharides,\
+in order to translate it to preparative scale for purification: The first min isocratic on 7% B; 1.0???58.0 min, B linearly from 7% to 21.5%;\
+58.0???60.0 min, B linearly from 21.5% to 40%; 60.0???60.5 min, B linearly\
+from 40% to 100%; 60.5???63.0 min isocratic on 100% B; 63.0???\
+63.5 min, B linearly from 100% to 7% followed by reconditioning of\
+the column. The third gradient (with 0.1% (v/v) HOAc) was used to\
+analyze the reducing end labeled oligosaccharides (as described later):\
+The first min isocratic on 7% B; 1.0???20.0 min, B linearly from\
+7% to 16.5%; 20.0???30.0 min, B linearly from 16.5% to 26.6%; 30.0???\
+30.5 min, B linearly from 26.6% to 100%; 30.5???33.5 min isocratic\
+on 100% B; 33.5???34.0 min, B linearly from 100% to 7% followed\
+by reconditioning of the column. Spectral data were collected from\
+200???600 nm.}

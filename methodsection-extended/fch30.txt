@@ -1,0 +1,41 @@
+The samples were loaded onto an ion exchange HPLC (Biochrom 20 Plus, Amersham Pharmacia Biotech, Staffanstorp, Sweden) employing postcolumn derivatisation with ninhydrin and
+detection at 570 nmwith proline detected at 440 nm. The chromatograms
+were integrated using specific software (ChromCard version 2.3.3, Thermo Scientific, Waltham, MA, USA) with amino acids identified and quantified by retention time against a standard amino acid mixture. Tryptophan and cysteine were not determined. The crosslinked
+amino acids lysinoalanine and lanthionine were assessed using standards obtained from PolyPeptide Laboratories (Strasbourg, France). The amount of OMIU-reactive lysine was determined in triplicate according to the method of Moughan and Rutherfurd
+(1996) and amino acid analysis described above. O-methylisourea (Fluka) and the L-homoarginine standard (Sigma) were purchased from Sigma Aldrich (Zwijndrecht, The Netherlands). The total carbohydrate content, and carbohydrate composition
+was determined by gas chromatography (GC), using inositol as internal standard (Englyst and Cummings, 1984). The samples were treated with 72% (w/w) H2SO4 (1 h, 30 C) followed by hydrolysis with 1 M H2SO4 for 3 h at 100 C. The constituent sugars released
+were analyzed as their alditol acetates by GC. Monosaccharide analysis was performed using a Dionex ICS 3000 High Performance
+Anion Exchange Chromatography (HPAEC) system (Sunnyvale, CA,
+USA), with pulsed amperometric detection. Samples were diluted
+500  with water before analysis and 20 lL was injected into the
+system. Separation was achieved using a CarboPac PA-1 column
+(2  250 mm) preceded by a CarboPac PA-1 guard column
+(2  250 mm). The monomers in the samples were eluted with a
+gradient of 0.02–0.05 M NaOH for 3 min and 0.05–0.075 M NaOH
+for 10 min, followed by isocratic elution of 0.1 M NaOH for 2 min.
+Subsequently, the column was washed with 1 M NaOAc in 0.1 M
+NaOH for 7 min. Equilibration of the column was achieved in
+0.1 M NaOH for 3 min followed by 0.02 M NaOH for 20 min.
+Furfural and 5-hydroxymethyl-2-furfural (5-HMF), by-products
+which can be formed when respectively hexoses and pentoses are
+degraded, were determined by HPLC using an Aminex HPX-87H
+column and UV-/RI-detection (280 nm) in soluble hydrolysates
+from pretreated wheat bran. Acrylamide, which is formed in an
+advanced Maillard reaction from aspartic acid, was measured in
+the untreated wheat bran and in the four samples pretreated at
+180 C. Acrylamide was quantified by LC–MS/MS with positive
+electrospray ionization using an Applied Biosystem API 4000 triple
+quadrupole mass spectrometer (Darmstadt, Germany) coupled to
+an Agilent 1100 LC system (Waldbronn, Germany), as previously
+described by Hoenicke and Gatermann (2005). The degree of
+browning of the samples, as a measure of melanoidin formation,
+was determined by liberation of brown pigments from protein
+molecules by means of the proteolytic enzyme pronase according
+to the method of Palombo et al. (1984).
+The digestibility of proteins in the pretreated samples was assessed
+in vitro by subsequent incubation with pepsin (at pH 1)
+and pancreatin (at pH 6.8) according to the method of Babinszky
+et al. (1990).
+All analyses were performed in duplicate, apart from amino acid
+and OMIU-reactive lysine analyses which were performed in
+triplicate.

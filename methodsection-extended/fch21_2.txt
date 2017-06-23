@@ -1,0 +1,4 @@
+The EPSs (1 mg) were dissolved in 1 ml of 1 N TFA and hydrolysed for 6 h at 120 C.  The hydrolysate was centrifuged and analysed at 40 C using
+a Thermo Quest HPLC system equipped with both a Shodex RI71 refractive index detector and a Thermo Separation Products Spectra System UV2000 UV
+detector at 220 nm. HPLC separation was performed using a Bio-Rad Aminex HPX-87H column using 0.01 N H2 SO4  (0.6 ml/min) as a mobile phase. The
+amount of pyruvate is calculated using a calibration curve of 0.2???2 mM sodium pyruvate. 

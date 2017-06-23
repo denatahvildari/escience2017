@@ -1,0 +1,19 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 Calibri;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22\fsmilli11040 \cf0 Samples were analyzed\
+on an ::Akta purifier (GE Healthcare, Uppsala, Sweden). A\
+Superdex 75 column with a bed volume of 23.5 mL was equilibrated\
+with 20 mM Tris-HCl buffer, pH 7.2, containing 150 mM NaCl at a\
+flow rate of 0.8 mL/min. Next, 50 \uc0\u956 L of sample was injected onto the\
+column. Detection took place at 214 nm. The column was calibrated\
+using the proteins BSA, ovalbumin, chymotrypsinogen, and ribonuclease,\
+with a mass of 67000, 42750, 20200, and 15700 Da, respectively.\
+The amount of native-like \uc0\u946 -lactoglobulin was determined by the peak\
+area at the time interval of 11 13 min. The peak area of the nativelike\
+fraction \uc0\u946 -lactoglobulin divided by the peak area of unheated\
+\uc0\u946 -lactoglobulin was defined as Ct/C0. These values were used to\
+calculate the reaction order of denaturation/aggregation using eq 3.}

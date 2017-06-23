@@ -1,0 +1,14 @@
+Gel permeation chromatography (GPC) analysis of the reaction
+products
+The samples were dissolved in tetrahydrofuran to the approximate
+concentration of 10 mg/mL and analyzed using HP (Agilent)
+system 1050 HPLC equipped with a Waters Styragel HR4 E
+8  300 mm column and an HP (Agilent) 1050 Autosampler. The
+detectors used were HP (Agilent) 1050 Diode Array UV Detector
+(250 nm) and HP Refractive Index analog detector. The UV detector
+was connected before the RI detector, which induced a slight shift
+(ca 30 s) in the elution times. Samples (injection volume 25 lL)
+were analyzed at ambient temperature. Tetrahydrofuran (inhibitor-
+free) was used as the mobile phase (0.5 mL/min). Polystyrenes
+were used as standards with molar masses of 114, 45, 12, 3.7 and
+0.68 kDa.

@@ -1,0 +1,2 @@
+The composition of the whey protein samples was analysed by HPLC, using a Shodex KW 803 gel-permeation chromatography column at a flow rate of 0.6mLmin1 (eluent 60% MilliQ water, 40% acetonitrile, and 0.1% trifluoroacetic acid), with detection at a wavelength of 220 nm. The samples were diluted with eluent containing 8M urea, and filtered over 0.22 mm membranes. For data collection and calculation of the separate whey proteins in the samples, PC1000 software (Thermo Separation Products GmbH, Darmstadt, Germany)
+was used.

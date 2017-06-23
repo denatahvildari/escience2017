@@ -1,0 +1,14 @@
+Molecular Weight Distribution and Fractionation
+by High Performance Size Exclusion Chromatography (HPSEC) The EPS (2 mg) was dissolved in 1 mL of distilled water and analyzed by HPSEC performed on a ThermoQuest HPLC
+using three TosoHaas TSK-Gel columns in series (4000-,
+3000-, 2500-, PWXL) preceded by an TSK guard column
+(406 mm). The sample (20 mL) was injected and eluted at
+308C using 0.8 mL/min 0.2M NaNO3. Detection was
+performed using a Shodex RI 71 refractive index detector.
+For fractionation 100 mL sample of 6 mg/mL was injected
+on the same system and eluted the same way. Fractions of
+240 mL were collected in 96-well plates using a Gilson
+FC203B fraction collector. The fractions were pooled according
+to the carbohydrate populations different in molecular
+weight and freeze-dried before subjecting them to sugar
+composition analysis.

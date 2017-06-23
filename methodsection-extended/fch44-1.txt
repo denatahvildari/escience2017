@@ -1,0 +1,42 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\f0\fs24 \cf0 Porous-graphitized-carbon liquid chromatography with\
+evaporative light scattering and mass spectrometric detection\
+PGC-HPLC-ELSD/MS was performed on a Thermo Accela UHPLC\
+system (Waltham, MA, USA) equipped with a Hypercarb column\
+(PGC, 100  2.1 mm, 3 lm) in combination with a Hypercarb guard\
+column (10  2.1 mm; 3 lm, Thermo Electron Corporation). Elution\
+was performed with a flow rate of 0.4 mL/min and a column\
+oven temperature of 70 C. The injection volume was set to 10 lL\
+(0.1???0.4 mg/mL for purified AOS and 5 mg/mL for sugar beet arabinan\
+digest D30/100). The following eluents were used: Millipore\
+water (A), acetonitrile (B), and 0.2% (w/v) trifluoroacetic acid\
+(TFA) in water (C). To all the eluents 25 lM lithium acetate was\
+added to ensure lithium adduct formation of all components during\
+the MS analysis. The following elution profile was used: 0???\
+1 min, isocratic 100% A, 1???15 min, linear gradient from 0% to\
+27.5% (v/v) B, 15???28 min linear gradient from 27.5% to 60% B,\
+and concomitant linear gradient from 0% to 10% (v/v) C, 28???\
+31 min linear gradient from 60% to 80% B, and from 10% to 20%\
+C, 31???35 min isocratic 80% B and 20% C, 35???36 min from 80% B\
+and 20% C to 100% A, 36???41 min equilibration with 100% A. The\
+PGC-column was coupled to a 1:1-splitter (Accurate, Dionex Corporation)\
+directing the eluent both to an ELSD 85 evaporative light\
+scattering detector (Sedere, Alfortville, France) and an ESI-MSndetector\
+(LTQ XL MS, ion trap, Thermo Electron Corporation). The\
+drift tube temperature of the ELSD was set to 50 C and the gain\
+to 12. MS-detection was performed in positive mode using a spray\
+voltage of 4.6 kV and a capillary temperature of 260 C and auto tuned on arabino-tetraose (m/z 553). The ion trap was closed either\
+after 10 ms or when an intensity of 3  105 was reached to enable\
+the detection of minor components and to avoid the overload of\
+the MS by abundant components. The MSn-experiments were performed\
+using wide band activation and based on dependent scansettings\
+(Xcalibur software, Thermo Electron Corporation).\
+For modeling of the 3D-structure of the linear and branched\
+AOS the software ChemBio Office 2010 (CambridgeSoft Corporation,\
+Cambridge, MA, USA) was used.\
+}

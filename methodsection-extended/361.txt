@@ -1,0 +1,7 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 Calibri;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22\fsmilli11040 \cf0 BP-neutral was remethoxylated (RME) and b-eliminationwas carried out a second time as described above, followedby desalting/separation on three Superdex 30 columns(1.6 mm660 cm, GE Healthcare Bio-Sciences AB) con-nected in series eluted with 1.2 mL/min MilliQ watercoupled to a Shimadzu RID10A refractive index detectorand a SuperFrac (GE Healthcare) fraction collector. Twofractions were collected, one of high molecular weight (BP-neutral-A) and one of lower molecular weight (BP-neutral-B).}

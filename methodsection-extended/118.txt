@@ -1,0 +1,25 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 Calibri;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22\fsmilli11040 \cf0 HPLC was used for the\
+determination of R-keto acids and organic acids. The reaction mixture\
+was prepared as described above and incubated in a model 717 auto\
+sampler (Waters, Milford, MA) at 40 \'b0C. At regular intervals, samples\
+(25 \'b5L) were taken and injected to the system. For the analysis of\
+polar molecules (pyruvic acid, 2-oxobutyric acid, 2-oxopentanedioic\
+acid, and oxalate) the system consisted of a LC-10AT pump (Shimadzu,\
+Tokyo, Japan), pumping 0.01 M methane sulfonic acid with an isocratic\
+flow of 0.6 mL/min over a Rezex Fast Fruit precolumn (100- \'d7 7.8-\
+mm) and a double Rezex Organic Acid column (300- \'d7 7.8-mm,\
+Phenomenex, Torrance, Ca) at 30 \'b0C. The other acids were analyzed\
+using the same system, but equipped with a wide pore C18-RP column\
+(250- \'d7 4.6-mm, Bio-Rad, Veenendaal, The Netherlands), and components\
+were eluted at 40 \'b0C with a gradient from 5 to 30% acetonitrile\
+in demineralized water containing 0.1% trifluoracetic acid (TFA). A\
+model 1481 Lamda-max detector (Waters, Milford, MA) was used at 220 nm to detect the compounds in both system configurations.\
+Concentrations were calculated using separate calibration samples\
+containing 4, 6, 8, and 10 mM of the acids in 50 mM succinate buffer\
+(pH ) 5.5).}

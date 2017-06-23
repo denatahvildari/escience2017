@@ -1,0 +1,11 @@
+Highperformance size-exclusion chromatography (HPSEC) was
+performed using a Dionex system (Dionex Bio-LC system,
+USA) equipped with a mixed bed column of Bio-Gel TSK (300
+mm  7.5 mm) (GMPWxl, Tosoh Corporation, Japan) in
+combination with a TSK guard column. A 25 ??L sample of
+pectin (diluted to 2 g/L with 0.1 M NaNO3, pH 6.9) were
+injected. Elution was executed at 35 ??C with 0.05 M NaNO3
+pH 6.9 at a flow rate of 0.7 mL/min for 20 min. The eluent
+was monitored using a Shodex R101 refractive index detector Showa Denko, K.K., Japan). Calibration was performed using pullulan standards (MM range 188-788000) (Polymer Laboratories, USA). Monogalacturonic acid (100 ppm) was injected
+before and after each set of samples to verify the reproducibility.
+High-Performance Anion-Exchange Chromatography.

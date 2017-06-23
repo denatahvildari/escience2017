@@ -1,0 +1,9 @@
+HPSEC
+High performance size exclusion chromatography was performed
+on a ThermoQuest HPLC using a series of three TosoHaas
+TSK-Gel G columns (4000PWXL, 3000PWXL, 2500PWXL). Samples
+(100 lL; 5 mg/mL) were separated at 30 C using a 50 mM ammonium
+formiate buffer (pH 5.1) at 0.8 mL/min as eluent. Separation
+was monitored using a refractive index (RI) detector, and 0.5 mL
+fractions were collected in 96-well plates. The fractions were subsequently pooled for sugar composition analysis or further analyzed
+using MAb assays.

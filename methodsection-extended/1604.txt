@@ -1,0 +1,13 @@
+Samples of fermentation medium were heated for 10 min at
+70??C to dissolve precipitated calcium lactate. Immediately
+after heating, the samples were centrifuged for 3 min at
+17,400??~g (Eppendorf 5417C). The supernatant was diluted
+(1:1, v/v) with 1 M sulphuric acid. The samples were
+filtered to remove solids and precipitated proteins (Spartan
+filter 13, pore size of 0.2 ??m, Schleicher & Schuell).
+Substrates and products were analysed by high-pressure
+liquid chromatography using an Altech IOA-1000 Organic
+Acids column with 3 mM sulphuric acid as the mobile
+phase at 90??C and a flow rate of 0.4 ml min???1.
+Monosaccharides, polyols and organic acids were detected
+by a refractive index detector (Waters 2414).

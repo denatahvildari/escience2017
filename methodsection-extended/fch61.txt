@@ -1,0 +1,5 @@
+The cell-free extracts were pooled and applied to a Q-Sepharose (Amersham, Little Chalfont, UK) anion-exchange column. Elution took place with a linear gradient of 0???0.5 M NaCl in 50 mM sodium acetate pH 4.5 at a flow rate of 57 cm/h. Fractions with the highest ??-galactosidase activity were pooled and further purified on a Superdex 200 PG
+(Amersham) size-exclusion column. Elution was performed with 0.15 M NaCl in 20 mM potassium phosphate buffer pH 6.0 at a flow rate of 30 cm/h. Protein concentration was determined by the method of Bradford (1976) using bovine serum albumin (BSA) as a
+standard.  The native molecular mass was estimated by size-exclusion chromatography using the Akta Purifier equipped with a Superdex 200 PG column (Amersham). The column was calibrated with thyroglobulin (669 kDa), ferritin (440 kDa), catalase (232 kDa),
+aldolase (158 kDa), BSA (67 kDa), ovalbumin (43 kDa), chymotrypsinogen A (25 kDa), and ribonuclease A (13.7 kDa). Elution was performed with 20 mM potassium phosphate buffer pH 6.0 containing 0.15 M NaCl at a flow rate of 76 cm/h.
+

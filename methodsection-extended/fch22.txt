@@ -1,0 +1,3 @@
+High-performance size-exclusion chromatography was performed on three TSKgel columns (7.8 mm ID · 30 cm per column) in series (G4000 PWXL, G3000 PWXL, G2500 PWXL; Tosohaas, Stuttgart, Germany), in combination with a PWX-guard column (Tosohaas, Stuttgart, Germany). Elution took place at 30 C with 0.2 Msodium nitrate at 0.8 mL/min. The eluate was monitored by refractive index detection using a
+Shodex RI-72 detector. Calibration was performed
+using dextrans. 

@@ -1,0 +1,18 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 Calibri;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22\fsmilli11040 \cf0 High-performance anion-exchange chromatography\
+was performed on a Thermo Separation Products system\
+equipped with a Dionex CarboPac PA-20 column (3 mm\
+ID \'b7 150 mm) in combination with a Dionex CarboPac\
+PA guard column (3 mm \'b7 25 mm) and PAD-detection\
+(Dionex) (Lee, 1996). Enzymatic released arabinose from\
+WAX was analysed by using HPAEC performing an isocratic\
+elution (0.5 mL/min) during 20 min with a solution\
+of 18 mM NaOH. To analyse cellobiose (enzymatic\
+released from BC) a gradient of 0\'96550 mM sodium acetate\
+in 100 mM NaOH during 25 min was applied. Each elution\
+was followed by a washing and equilibration step.}

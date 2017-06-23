@@ -1,0 +1,16 @@
+The released sugars were
+analysed using high performance anion exchange chromatography
+(HPAEC) with pulsed amperometric detection
+(PAD) as described by Verhoef and coworkers.13
+ 2.5. Absolute configuration
+The absolute configurations of the monosaccharides
+present in the EPS were determined as described by  Gerwig and coworkers.16  The GC-FID analyses of the
+tri-methylsilated (/ )-2-butyl glycosides was performed
+using a Carlo Erba Mega 5160 GC, equipped with a CPSil
+5 CB column (25 m/ 0.32 mm, Chrompack). The
+temperature programme was: 80/ 135 8 C at 20 8 C/min;
+135/ 220 8 C at 2 8 C/min. The injection port and detector
+temperatures were 200 and 250 8 C, respectiv ely. The
+Helium flow rate was 3 mL/min and the samples
+(approx. 0.5 m L) were injected directly on the column
+without a stream splitter.

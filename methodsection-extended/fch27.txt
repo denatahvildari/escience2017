@@ -1,0 +1,3 @@
+Further purification was performed by concanavalin A affinity chromatography
+(Sigma Aldrich, Germany) according to manufacturer???s instructions, and elution was carried out with 50 mM a-Dmethylmannoside (Sigma Aldrich, Germany). Peanut 7S globulin (Ara h 1) containing peak fractions were pooled and subjected to gel permeation chromatography using a Superdex Preparative Grade S200 column (GE Healthcare, Buckinghamshire, UK). Pooled fractions were concentrated and dialyzed against PBS by ultrafiltration using an Amicon-stirred cell equipped with a regenerated cellulose
+membrane with a 10 kDa MWCO membrane (Millipore). The protein concentration was assessed by the BCA-assay (Pierce, USA), and purity was determined by SDS-PAGE

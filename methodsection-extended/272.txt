@@ -1,0 +1,15 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 Calibri;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22\fsmilli11040 \cf0 Aqueous and saponified samples\
+were analyzed by reversed-phase chromatography using a 150 mm \'d7\
+4.6 mm i.d. XTerra MS C18 3.5 \'b5m column in combination with a 20\
+mm \'d7 3.9 mm i.d. XTerra MS C18 3.5 \'b5m guard column (Waters,\
+Milford, MA) using the procedure described previously (7). Aqueous\
+5-CQA and CA solutions were used as reference for the 5-CQA and\
+unbound CA contents, respectively. Saponified CA solutions were used\
+as reference for the total CA contents. Experiments were performed at\
+least in duplicate. The average coefficient of variation was 1%.}

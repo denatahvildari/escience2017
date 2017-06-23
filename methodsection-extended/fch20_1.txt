@@ -1,0 +1,2 @@
+High Performance Anion Exchange Chromatography
+The analysis of the samples was analyzed by HPAEC according to Albrecht et al. [25] using a CarboPac PA1 (250mm????2.1mmID) column (Dionex, Sunnyvale, USA). A flow rate of 0.3 mL/min was used with the following gradient of sodium acetate in 100mM NaOH: 0???50 min, 0???500mM. Each elution was followed by a washing step of 5min 1000mM sodium acetate in 100mM NaOH and a re-equilibration step of 15 min 100mM NaOH.

@@ -1,0 +1,13 @@
+High-performance size exclusion chromatography
+(HPSEC) was carried out in a ThermoFinnigan
+(United States) HPLC apparatus with three TSKgel
+columns (7.8-mm i.d. 3  30 cm per column) in series
+(G4000PWXL , G3000 PWXL , and G2500PWXL , Tosohaas,
+Japan), in combination with a PWXL -guard
+column (Tosohaas). Elution took place at 30 8 C with
+0.2 M sodium nitrate at a flow rate of 0.8 mL/min
+and was monitored with a refractive-index detector
+(Spectra System RI 150, Thermo Electron Corp.,
+Italy). The software ChromQuest was obtained
+from ThermoFinnigan.12
+ 

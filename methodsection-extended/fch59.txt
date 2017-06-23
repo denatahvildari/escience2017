@@ -1,0 +1,2 @@
+Number averaged molecular weight (Mn) and polydispersity of the
+polysaccharides were determined using size exclusion chromatography (5000, 4000, 3000 PW columns and 0.2 M sodium nitrate as eluens, flow rate 0.5 mL/min, refractive index detection) in combination with multi-angle laser light scattering (DAWN-F MALLS photometer, equipped with K5 flow cell and a linearly polarized He???Ne laser light source, 14 detectors used). Mn and Mw were calculated using Astra for Windows, using a dn/dc of 0.152 mL/g).

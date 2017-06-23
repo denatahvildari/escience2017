@@ -1,0 +1,14 @@
+Gel permeation chromatography (GPC)
+Oligomers were analyzed in a Viscotek GPCmax VE
+2001 system fitted with a Viscotek internal pump
+and a Viscotek TDA 302 triple detector array for
+refraction index and viscosity detection. An external
+Waters Lambda max UV detector at 230 nm was
+also used. The data were recorded on an Omnisec
+4.5 station. The products were separated with MZGel
+SD  Plus series columns of 50 ?? , 100 ?? , 1000 ??
+and 10,000 ?? operating at 40 o C. Samples of 150 ?? L
+were eluted with chloroform at 1 mL.min 1 . The
+average molecular weight was calibrated using a
+standard mixture of polystyrene.
+ 

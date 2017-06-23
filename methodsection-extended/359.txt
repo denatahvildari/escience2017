@@ -1,0 +1,25 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 Calibri;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22\fsmilli11040 \cf0 The HCE was subjected\
+to preparative HPLC, using a Waters 2690 system equipped with a\
+2767 automatic sample injector and a 2525 binary gradient module\
+(Waters Inc., Etten-Leur, The Netherlands). All separations were performed\
+with an XTerra RP18 column (5 \uc0\u956 m, 19  150 mm, i.d., Waters\
+Inc.), eluted at 17 mL/min with (A) MQ water \'fe 0.1% (v/v) acetic acid and\
+(B) acetonitrile \'fe 0.1% (v/v) acetic acid for 85 min. The gradient was as\
+follows: 0-10 min, 10% B isocratic; 10-40 min, 10-55% B; 40-70 min,\
+55-70% B; 70-75 min, 70-100% B; 75-80 min, 100-10% B; 80-\
+85 min, 10% B isocratic. LC-UV traces were recorded in-line with a\
+2996 PDA detector and an UV fraction manager with detection at 205 and\
+280 nm (Waters Inc.). The HCE was filtered through a 0.45 \uc0\u956 m syringe\
+filter and injected (1 mL) onto the column.\
+Fractions (18 mL each) were obtained by collecting the effluent during\
+1 min intervals. On the basis of the UV 280 nm signal, appropriate\
+fractions were combined in 21 pools, and the organic solvent was removed\
+by evaporation. Subsequently, the pools were freeze-dried and redissolved\
+in methanol before use. Each pool was analyzed by UHPLC and assayed\
+for the inhibition of MCP-1 and TNF-R release.}

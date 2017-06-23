@@ -1,0 +1,22 @@
+ HPLC analysis of carotenoids
+Separation and chromatographic analysis of pigments was
+performed using a Merck Hitachi HPLC equipped with a
+UV???Vis detector as described in [23 ], using an RP-18
+column and flow rate of 1 mL min-1 . The mobile phase
+consisted of ethyl acetate (solvent A) and acetonitrile/water
+(9:1 v/v) (solvent B), and the gradient program applied was:
+0???16 min, 0???60% A and 100???40% B; 16???30 min, 60% A
+and 40%B; 30???35 min, 100% A. Detection of pigments was
+carried out at 450 nm, and their identification and quantification
+was achieved by previously running in the HPLC
+known amounts of pigment standards (calibration curves).
+The standards were supplied by DHI-Water and Environment
+(Denmark), including chlorophyll a, chlorophyll b,
+violaxanthin, zeaxanthin, lutein, and b -carotene of highpurity
+grade ([ 99%). From the corresponding calibration
+curves of the pigment standards, the following factors were
+obtained and used to calculate carotenoid concentrations
+in the samples (l g mL-1 ): chlorophyll a, 5.13 9  10-6 ;
+chlorophyll b, 5.88 9  10-7 ; violaxanthin, 3.69 9  10-7 ;
+zeaxanthin, 2.84 9  10-7 ; lutein, 3.63 9  10-7 ; andb -carotene,
+3.09 9  10-7 .

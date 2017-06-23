@@ -1,0 +1,16 @@
+About 250 mg CASS were dissolved in water and centrifuged.
+The pellet was collected (CASS residue) and the
+supernatant was fractionated on a DEAE Sepharose Fast
+Flow column (100 cm????2.6 cm, GE Healthcare, Upsala,
+Sweden) into three fractions: unbound material was eluted with
+530mL 5mM sodium acetate at pH 5.0 (CASS unbound), the
+second fraction was eluted with 530mL 2M sodium acetate
+buffer at pH 5.0 (CASS NaOAc), and the last fraction was
+eluted with 530mL 0.5M sodium hydroxide (CASS NaOH)
+[25]. Sugar composition as alditol acetates
+For determining the sugar composition, samples were prehydrolysed
+using 72%, w/w sulphuric acid at 30 ???C for 1 h and
+subsequently hydrolyzed with 1M sulphuric acid at 100 ???C for
+3 h [26]. Afterwards the sugars were derivatised to their alditol
+acetates and determined by gas chromatography [27] using inositol
+as internal standard.

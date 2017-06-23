@@ -1,0 +1,18 @@
+The molecular conformation of CMC was determined
+at pH 6.7 and 3.0 by using size-exclusion chromatography
+combined with multiple-angle laser-light-scattering
+(SEC MALLS). CMC was dissolved in 0.08M NaNO3 , to
+which phosphate buffer was added. the pH was adjusted to
+6.7 or 3.0 and a total ionic strength was 0.1 M. Measurements
+yielded distributions of molecular mass,Mw  and radius of gyration,
+rg . In addition, rg  is plotted against Mw  on a double
+logarithmic scale. The slope ??  of this line is a measure of the
+conformation of the molecule. Weight averages of Mw  and
+rg , the overlap concentration, c??? , and ??  are given in Table 1
+ for pH 6.7 and 3.0. At pH 3.0, which is near the pK  of CMC,
+larger values of Mw  and rg  were obtained indicating slight
+aggregation of the polysaccharide, probably due to the lower
+charge density. The overlap concentration is only slightly
+affected by this aggregation and ??  is approximately 0.3, indicating
+a compact spherical conformation and a slight degree
+of branching [18] .

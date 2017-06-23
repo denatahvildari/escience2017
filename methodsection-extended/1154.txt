@@ -1,0 +1,28 @@
+For determining what fraction of the a-lactalbumin monomers
+was incorporated into protein oligomers and protein polymers, size
+exclusion chromatography (SEC) was performed on 100 mL aliquots
+taken from the reaction mixture at various reaction times. The aliquots
+were injected on a Bio-Silect SEC 400-5300 mm  7.8 mm
+column, connected to a Biologic DuoFlow Chromatography system.
+Elution was done using 0.1 M NH4Ac (pH 6.8), detection at 280 nm.
+Prior to injection, the column was equilibrated with the elution
+buffer. For determining (weight) fractions of monomers, oligomer
+and protein polymers, chromatograms were divided into three regions.
+The non (intermolecularly) cross-linked a-lactalbumin
+monomers eluted from 11 mL to 12.2 mL. The exclusion limit of the
+Bio-Silect SEC 400-5 column was reported to be around 106 g/mol
+for globular proteins, and for the purpose of the present determination,
+any cross-linked protein products eluting in the void (that
+is, at elution volumes smaller than 7.5 mL) were classified as
+protein polymer whereas cross-linked protein products at intermediate
+elution volumes (from 7.5 mL to 12.2 mL) were classified as
+protein oligomers???. For all aliquots, the estimated error in the total
+area under chromatograms was about 5%. The fraction of each
+species was taken to be the ratio of the area in the chromatogram
+for that particular species, divided by the total area for the three
+species combined. The whole experiment has been carried out in
+duplicate, with very similar results. The duplicate experiment was
+performed by using a Superose 6 10/300 GL column (GE Healthcare,
+Uppsala, Sweden) connected to an Akta Purifier system at room
+temperature. Samples were eluted with 0.1 M NH4Ac buffer pH 6.8
+at a flow rate of 0.5 mL/min, detection was done at 280 nm.

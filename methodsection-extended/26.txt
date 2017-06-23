@@ -1,0 +1,18 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 Calibri;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22\fsmilli11040 \cf0 The hydrolytic activity of AglA and AglB towards substrates\
+with different glucosidic linkages was measured with high performance\
+anion exchange chromatography (HPAEC). A Dionex\
+CarboPac PA-100 (4 250 mm) column and a pulsed electrochemical\
+detection detector in the pulsed amperometric detection mode\
+were used (Dionex). A flow rate of 1 ml min\'961 was used with the\
+following gradient of sodium acetate in 0.1 M NaOH: 0\'965 min,\
+0 mM; 5\'9620 min, 0\'96150 mM; 20\'9625 min, 150\'961,000 mM; 25\'96\
+30 min, 1,000 mM. For maltitol the following gradient was used :\
+0\'9626 min, 16 mM NaOH; 26\'9633 min, 16\'96100 mM NaOH; 33\'96\
+38 min, 0\'961,000 mM sodium acetate in 100 mM NaOH; 38\'9643 min,\
+1,000 mM sodium acetate in 100 mM NaOH.}

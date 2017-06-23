@@ -1,0 +1,7 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 Calibri;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22\fsmilli11040 \cf0 After dissolving in water, the intracellular metabolites were profiled in an untargeted manner on a reversed phase HPLC-MS system with a high resolution accurate mass detector (QTOF Ultima MS) as described before [54]. A Synergi Hydro-RP column, 250 \'d7 2.0 mm and 4 \uc0\u956 m pore size (Phenomenex, USA), and a gradient of 0 to 35% acetonitrile in water (acidified with 0.1% formic acid) during 45 min were used to separate the metabolites. Full scan accurate mass data (m/z 80-1500) were collected in both positive and negative electrospray ionization mode, using leucine enkephalin as a lock mass. Hereafter the mass signals exceeding three times the local noise were extracted, and mass profiles of both strains were compared using MetAlign\'99 software}

@@ -1,0 +1,2 @@
+The crude cell extract was centrifuged at 9047 ????g at 4 ???C for 10 min. catA2 was purified from the crude extract by .KTA fast protein liquid chromatography (GE health care, USA) using a 5 mL NI-NTA column (Qiagen, The Netherlands). The proteins were
+eluted with 20 mM Tris???HCl (pH 8) with a 0???500 mM imidazol gradient at a flow rate of 5 mL/min for 20 min. The purification of catA2 was monitored with SDS-PAGE and Western blotting using His-Tag antibodies (Abcam, U.K.)

@@ -1,0 +1,7 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 Calibri;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22\fsmilli11040 \cf0 The HPLC equipment consisted of two M 6000A pumps (Waters Assoc.), an ISS-100 automatic sample injector (Perkin\'96Elmer), a Kratos Model 7836 UV detector and a Waters Type 680 automated gradient controller. A 250 mm \'d7 4.6 mm I.D. HiPore RP-318 column (BioRad Labs.). Separation was started with 69% of solvent A (2% (v/v) acetonitrile and 0.1% (v/v) TFA in water). A gradient was generated immediately after injection of the sample started from 31% of solvent B (90% (v/v) acetonitrile and 0.08% (v/v) TFA in water) to 43% B in 15 min, from 43% to 49% B in 32 min, from 49% to 73% B 49% in 5 min and held for 5 min subsequently, before returning to starting conditions in 3 min. The flow rate was 0.8 mL/min and detection took place at 214 nm.}

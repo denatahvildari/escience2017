@@ -1,0 +1,14 @@
+The yield of the esterification reaction was 70% and the
+purity of the obtained activated capric acid was over 95%.
+The purity and identity of the activated capric acid was
+confirmed (>97% purity) using thin-layer chromatography
+(TLC), mass spectrometry, and NMR (results not shown).
+Activated capric acid was covalently coupled to ovalbumin
+by reaction with its free amino groups, essentially as described
+by Liu et al. (2000). Therefore, ovalbumin was dissolved
+at a concentration of 8.5 mg/ml in 250 ml 100 mM
+sodium carbonate buffer of pH 8.5. Activated capric acid
+was dissolved at a concentration of 1.4 mg/ml in 40 ml
+DMSO and subsequently added to the ovalbumin solution.
+This gave end concentrations of 0.2 mM ovalbumin and
+0.7 mM activated capric acid.

@@ -1,0 +1,12 @@
+Preparation of PTAG Derivates???The free amino groups of the
+internal peptides were PTAG derivatized in 100 mM KH2PO4 (pH 7.5)
+with DL-glyceraldehyde-3-phosphate (Sigma Aldrich) at a final concentration
+of 90 mM and freshly prepared sodium cyanoborohydride
+in a final concentration of 30 mM at room temperature. Freshly
+prepared sodium cyanoborohydride was added at 1 h and 2 h intervals
+and the reaction mixture was further incubated overnight. Following
+PTAG derivatization, peptide mixtures were extensively purified
+by C18 solid phase extraction (SPE) chromatography (column
+dimensions 5 cm (L)  200 m inner diameter (ID), in-house packed
+with 5 m Reprosil Pur C18-AQ, Dr Maisch, Ammerbuch-Entringen,
+Germany).

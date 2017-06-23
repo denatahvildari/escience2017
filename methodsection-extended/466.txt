@@ -1,0 +1,7 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 Calibri;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22\fsmilli11040 \cf0 The samples were diluted with water (1:1 (v/v)) before analysis. The diluted samples (20 \uc0\u956 l) were injected into an Ultimate 3000 (Dionex Corporation, Sunnyvale, CA, USA) High Performance Liquid Chromatography (HPLC) system coupled to a Shodex RI-101 refractive index detector (Showa Denko KK, Kawasaki, Japan), equipped with an Aminex HPX-87 H column (300 \'d7 7.8 mm; Bio-Rad, Richmond, VA, USA) and a guard column. The eluent was 5 mM H2SO4, eluted at 40 \'b0C with a flow rate of 0.6 ml/min.}

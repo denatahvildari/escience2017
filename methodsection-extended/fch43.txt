@@ -1,0 +1,30 @@
+Volatile compounds were identified using
+purge-and-trap thermal desorption cold-trap (TDCT)
+gas chromatography mass spectrometry (GC-MS).
+Cheese paste was mixed with double distilled water
+(1:3 wt:vol) and homogenised and subsequently 20mL
+of this mixture was purged with 150mLmin1  helium
+gas for 30 min at room temperature. The volatile
+compounds were trapped on an absorbent trap containing
+carbotrap (80 mg, 20???40 mesh, Supelco, Belle Fonte,
+PA, USA) and carbosieve SIII (10 mg, 60???80 mesh,
+Supelco). The trapped compounds were transferred onto
+a capillary column of a gas chromatograph using a
+ChrompackPTI injector (Chrompack, Middelburg, The
+Netherlands) in the TCDT mode, by heating the trap for
+10 min at 250 C. A narrow injection band was achieved
+by cryofocusing at  100 C. The conditions for the
+chromatographic separation and mass spectrometry
+were as described previously (Engels, 1997 ). Structures
+were assigned by spectrum interpretation, comparison
+of the spectra with bibliographic data and comparison
+with retention times of reference compounds.
+Quantification of components was performed using a
+gas chromatograph equipped with a flame ionisation
+detector (GC-FID) (FID 40, Carlo Erba, Milan, Italy)
+as described by Ayad, Verheul, Wouters, and Smit
+(2000) . Sulphur compounds were analysed in duplicate
+by head space GC analysis using an FPD detector
+(Carbo Erba, Milan, Italy) as described by de Jong,
+Neeter, Boelrijk, and Smit (2000) . For quantification the
+average peakareas and the deviations were determined.

@@ -1,0 +1,9 @@
+Detection of quaternary structure
+Size exclusion chromatography (SEC) was used to study the
+aggregation state of the proteins. SEC was carried out on a
+Superdex S200 HR column (Pharmacia Biotech) with a bed
+volume of 24 mL. The column was equilibrated and run with
+10 mM phosphate-buffer pH 7.0 and 50 mM NaCl at 20 -C.
+The sample (200 AL, 5 mg/mL in the same buffer) was applied
+to the column and the flow-rate was set to 0.4 mL/min;
+detection took place at 280 nm.

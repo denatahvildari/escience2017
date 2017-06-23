@@ -1,0 +1,16 @@
+4.8. Gel permeation chromatography (GPC)
+To determine the molecular weight distribution of the
+lignan macromolecule and the saponified lignans, aliquots
+of 50 l l (2 mg/ml) were analyzed on a similar HPLC system
+as described for analytical RP-HPLC, equipped with
+a Tricorn Superdex Peptide 10/300 GL column (Amersham
+Bioscience; 10 ??  300???310 mm, bed volume = 24 ml, optimum
+separation range 100???7000 Da). The column was
+run isocratically at a flow rate of 0.8 ml/min with 40% (v/
+v) aq. ACN + 0.1% (v/v) TFA as eluent. The eluate was
+monitored at 280 nm. The included volume (Vinc  =
+16.5 ml) was determined with water. It should be noted
+that part of the compounds eluted later than the included
+volume indicating that aspecific interactions occurred. No
+further calibration was performed since no suitable calibration
+compounds were available.

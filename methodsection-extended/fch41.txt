@@ -1,0 +1,34 @@
+Liquid chromatography was performed on a Thermo Accela
+UHPLC system (Waltham, MA, USA) equipped with a Hypercarb
+column (PGC, 100mm????2.1mm; 3m, Thermo Electron Corporation,
+San Jos??, USA) in combination with a Hypercarb guard
+column (10mm????2.1mm; 3m, Thermo Electron Corporation).
+Elution was performed with a flow of 0.4 mL/min and a column
+oven temperature of 70 ???C. The injection volume was set to 10L.
+The following eluents were used: Millipore water (A), acetonitrile
+(B) and 0.2% (v/v) trifluoroacetic acid in water (TFA, C), to all eluents
+25M sodium acetate was added to ensure sodium adducts of all
+components. The following gradient was used: 0???1 min, isocratic
+100% A, 1???15 min, linear from 0 to 27.5% (v/v) B, 15???28 min linear
+from 27.5 to 60% B and concomitant linear from 0 to 10% (v/v) C,
+28???31 min linear from 60 to 80% B and from 10 to 20% C, 31???35 min
+isocratic 80% B and 20% C, 35???36 min from 80% B and 20% C to 100%
+A, 36???41 min equilibration with 100% A. The PGC-column was coupled to a 1:1-splitter (Accurate, Dionex, Sunnivale, USA) directing the eluent both to the evaporative
+light scattering detector (ELSD 85, Sedere, Alfortville Cedex,
+France) and to the ESI-MSn-detector (LTQ XL MS, ion trap, Thermo
+Scientific, San Jose, CA, USA). The ELSD micro flow nebulizer
+(Sedere, Alfortville Cedez, France) had a gas pressure of 3.5 bar and
+a gas flow of 1.75 L/min. The drift tube temperature of the ELSD
+was set to 50 ???C and the gain to 12. MS-detection was performed in
+positive mode using a spray voltage of 4.5 kV and a capillary temperature
+of 260 ???C and auto-tuned on malto-pentaose (m/z 851).
+The MSn-experiments were performed based on dependent scansettings
+(Xcalibur software, Thermo Electron Corporation, San Jos??,
+USA). The addition of sodium acetate (25M) in combination with
+the use of TFA introduces a significant amount of noise due to the
+polymerization of sodium trifluoroacetate (m/z 136). The m/zvalues
+originating from the sodium-TFA-complexes are excluded
+from the online-MS2 measurements by means of Xcalibur software
+(Thermo Electron Corporation, USA). The column was regenerated
+with 70 column volumes of tetrahydrofuran after each series of
+analysis [25].

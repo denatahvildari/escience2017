@@ -1,0 +1,8 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 Calibri;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22\fsmilli11040 \cf0 High-performance size-exclusion chromatography (HPSEC) was performed on three TSK gel columns (7.8 mm ID!30 cm per column) in series (G4000PWXL, G3000 PWXL, G2500PWXL; Tosohaas, Japan), in combination with a PWXL-guard column (Tosohaas, Japan). Elution was at 30 8C using 0.2 mol/L sodium nitrate at a flow rate of 0.8 mL/min. The elution was monitored using a Shodex SE-61 Refractive Index detector. Calibration was performed using\
+pollulans (Polymer laboratories, UK)}

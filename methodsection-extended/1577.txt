@@ -1,0 +1,6 @@
+Concentrations of DCA were determined by analyzing 100-??l
+headspace samples on a Chrompack CP9000 gas chromatograph,
+equipped with a CP-Sil 8CB column (Chrompack, Middelburg, The
+Netherlands). The oven temperature was 100 ??C and the vials were
+kept at 30 ??C. Chloride concentrations were determined using a
+colorimetric assay (Bergmann and Sanik 1957)

@@ -1,0 +1,8 @@
+Size exclusion chromatography (SEC) was performed on a AKTA
+micro liquid chromatography system equipped with a Superose 6
+column (both GE Healthcare, Uppsala, Sweden). The samples
+(50 mL, w10 mg/mL protein) were eluted with 50 mM Tris/HCl
+buffer (pH 8) containing 150 mM NaCl at a flow rate of 0.5 mL/min
+at room temperature. Elution was monitored by UV detection at
+280 nm (internal detector) and by refractive index detection
+(Shodex RI150, Showa Denko K.K., Tokyo, Japan). 

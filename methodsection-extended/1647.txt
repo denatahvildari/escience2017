@@ -1,0 +1,15 @@
+The treatment of samples and analysis of monosaccharides,
+organic acids, alcohols and polyols were performed by
+High-Pressure Liquid Chromatography as described earlier
+[14 ]. The cell dry weight determination was performed by
+W ltration of fermentation broth over a pre-weighed W lter
+and drying overnight [14 ]. The ammonium concentration in
+fermentation samples was analysed with an Ammonium
+Test (Spectroquant, Merck, Germany). The chiral purity
+(%) of lactic acid was determined by derivatisation of all
+lactates using methanol, after which both enantiomers of
+methyl lactate were separated on a chiral Gas Chromatography
+column and detected using a Flame Ionisation
+Detector. The chiral purity was expressed as the area of
+the main enantiomer divided by the sum of areas of both
+enantiomers.

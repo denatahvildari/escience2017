@@ -1,0 +1,16 @@
+samples were taken to study the protein breakdown and RP-HPLC
+(Reversed-phase high-performance liquid chromatography) was
+applied to characterize the digests. Digestion was expressed as the
+reduction of the initial area of peaks representing the two major
+whey protein fractions, a-lactalbumin and b-lactoglobulin, in the
+RP-HPLC chromatographs. Analytical reversed-phase chromatography (RP-HPLC) was
+carried out using two M 6000A pumps in combination with a high
+sensitivity accessory block (Waters), an ISS-100 injector (Perkine
+Elmer, Uberlingen, Germany), a Waters Model 680 gradient
+controller and a Kratros 783 detector (Kratos Analytical, Ramsey, NJ,
+USA). A 250  4.6 mm Aeris Widepore C18 column (Phenomex, The
+Netherlands) was used with a KrudKatcher Ultra HPLC Column In-
+Line Filter (Phenomex) as a guard column. The equipment was
+linked to a data acquisition and processing system (Turbochrom,
+PerkineElmer). Chromatography was performed according to
+a method adapted from Visser, Slangen, and Rollema (1991).

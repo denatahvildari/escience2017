@@ -1,0 +1,21 @@
+The pectin samples were produced by
+Degussa Texturant Systems, Redon, France. Three citrus
+pectin samples, A, B, and C, with about the same DM but
+differing in their degree of blockiness (DB) were investigated,
+see Table 1.20 Pectins A and B originate from the same lemon
+variety. The MW of the samples, determined with highperformance
+size exclusion chromatography (HPSEC), were
+ 82 kDa for pectins A and C and 78 kDa for pectin B.
+ B. Uronic Acid Content. Pectins (60 ??g/mL) were boiled
+(1 h), cooled, and then saponified with sodium hydroxide
+(40 mM). The uronide content was determined by the
+automated colorimetric m-hydroxydiphenyl method.21-23
+ C. Degree of Blockiness. The pectins were digested with
+polygalacturonase of KluiVeromyces fragilis (PGkf) which
+needs 4 or more free GalA to act. Degradation products were
+analyzed by HPAEC at pH 5.20,24 Quantification of these
+oligomers is possible by integration from HPAEC pH 5
+elution profiles. From these results, the degree of blockiness
+was determined25,26 (Table 1). 
+ 
+ 

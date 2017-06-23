@@ -1,0 +1,41 @@
+Verification of oligosaccharide reduction products
+After reduction and purification, oligosaccharides were analyzed
+using High Performance Anion Exchange Chromatography
+(HPAEC) using equipment and columns as described previously.11
+Ten microliters of a 1 mg/mL sample solution was injected. Initial
+eluent composition (0.3 mL/min) was 0.1 M NaOH, which was linearly
+changed to 0.4 M NaOAc in 0.1 M NaOH in 30 min. After this,
+the column was rinsed with 1 M NaOAc in 0.1 M NaOH for 5 min
+followed by an equilibration at starting conditions for 18 min. Data
+were processed using Chromeleon software (Dionex Corporation).
+2.2.3. Synthesis of oligosaccharide-hydroxy-aryl esters
+Oligosaccharides were transesterified with methyl 3-(4-
+hydroxyphenyl)propionate (HPPME) by dissolving 0.7 mmol of oligosaccharide
+together with 1.7 mmol of HPPME (ratio 1:2.3) and
+25 mg of K2CO3 in 5 mL of DMSO in a 15 mL capped plastic reaction
+tube. Reaction mixtures were subsequently incubated in a shaking
+incubator (80 rpm) at 40 C for seven days. To study the influence
+of the reagents on product yield and composition, a range of samples
+with different reagent ratios was incubated under the same
+conditions for four days. The reaction was stopped by cooling the
+samples to 20 C until further analysis or purification.
+2.2.4. Purification of the oligosaccharide-hydroxy-aryl esters
+The hydroxy-arylated oligosaccharides in the reaction mixture
+were precipitated by mixing 1 mL of the reaction mixture with
+20 mL of dichloromethane. After centrifugation (5 min; 2540g,
+room temperature), the supernatant was decanted and the precipitate
+was washed with 10 mL of dichloromethane. The precipitate
+was air-dried and subsequently dissolved in 8 mL of water (0 C).
+This solution was used for purification by means of Solid Phase
+Extraction (SPE). Sep-Pak Vac 20 cc (5 g) C18 Cartridges (Waters
+Corporation, Milford, MA, USA) with a CV of 8 mL were activated
+by rinsing with 3 CV of MeOH and 3 CV of water, respectively.
+The 8 mL of sample solution was then loaded. After this, compounds
+were eluted using successively: Water (6 CV), 10% (v/v)
+MeOH in water (6 CV), 20% (v/v) MeOH in water (3 CV), 30%
+(v/v) MeOH in water (3 CV), 40% (v/v) MeOH in water (3 CV),
+and 60% (v/v) MeOH in water (3 CV). Fractions were collected
+per 3 CV, dried using a stream of dry air, and weighted. Fractions
+were subsequently dissolved in water to a concentration of 5 mg/
+mL and analyzed by using RP-UPLC-MS. Fractions were stored at
+20 C until further use.

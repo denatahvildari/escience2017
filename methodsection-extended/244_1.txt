@@ -1,0 +1,18 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 Calibri;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22\fsmilli11040 \cf0 Samples were separated\
+on an analytical Vydac C8 column (208MS52; 250 \'d7 2.1 mm;\
+bead diameter ) 5 \'b5m; porosity ) 300 nm; Dionex, Sunnyvale, CA)\
+by HPLC (Thermo Separation Products Inc., San Jose, CA) with\
+ChromQuest software. The flow rate was 0.2 mL/min and the column\
+temperature, 20 \'b0C; eluent A was 0.07% (v/v) TFA in 5% (v/v)\
+acetonitrile, and eluent B was 0.05% (v/v) TFA in acetonitrile. A\
+volume of 30 \'b5L of sample was injected onto the column. After 10\
+min of isocratic elution with eluent A, further elution was obtained\
+with a linear gradient from 0 to 55% eluent B in 100 min, then from\
+55 to 100% eluent B in 2 min, and 100% B for 20 min. Detection was\
+performed at 220 nm}

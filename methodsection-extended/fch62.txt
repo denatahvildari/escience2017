@@ -1,0 +1,55 @@
+ 4. Experimental
+4.2. Saponification of the lignan macromolecule
+Solutions of 2 mg/ml lignan macromolecule in 63% (v/v)
+aq. EtOH containing various concentrations NaOH were
+(partially) saponified to obtain lignan macromolecular
+fragments of various sizes. NaOH concentrations ranging
+from 1 to 25 mM NaOH were used for partial saponification.
+For full saponification 75 mM NaOH was used.
+Saponification was performed at room temperature while
+stirring. After 24 h, the reaction was stopped by lowering
+the pH to 6.5???7.0 with HOAc (20 mM???1.5 M for analytical
+purposes, glacial HOAc for preparative purification purposes).
+For analytical purposes, the incubation volume
+was 1 ml, for preparative purification purposes a volume
+of 2.5 l was used.
+ Resolubilisation of the insoluble material in 63% (v/v) aq. EtOH and
+analysis of this material on analytical RP-HPLC did not
+show any peaks corresponding to peaks annotated as constituents
+of the lignan macromolecule (Fig. 3).
+After activation of the SepPak cartridge with successively
+2 column volumes of MeOH and 2 column volumes
+of water, a maximum of 150 mg (partially) saponified lignan
+macromolecule (supernatant) was loaded onto the cartridge.
+After a wash step with 1 column volume of water,
+lignans were eluted from the cartridge with 3 column volumes
+of MeOH of which the first column volume was discarded.
+For analytical purposes, the MeOH was
+evaporated under a stream of air to a final volume of
+1 ml. For purification purposes, all MeOH was evaporated
+and the (partially) saponified lignans were lyophilized. Aliquots
+of the samples were analyzed on analytical RPHPLC.
+After full and partial saponification (2 mM NaOH)
+of 5.0 g lyophilized lignan macromolecule and sample clean
+up, 2.5 g and 2.8 g of fully and partially saponified lignan
+macromolecule was obtained, respectively.
+4.4. Analytical reversed phase HPLC (RP-HPLC)
+Samples were analyzed on an X-Terra C18 MS column
+(Waters; 3.5 lm particle size, 4.6 ?? 150 mm) with an XTerra
+C18 MS guard column (Waters; 3.5 lm particle size,
+4.6 ?? 10 mm) run on a Thermo Separation Products HPLC
+system equipped with a membrane degasser, P4000 pump,
+AS3000 autosampler, and UV3000 detector. Water and
+acetonitrile (ACN), both acidified with 0.1% (v/v) HOAc,
+were used as eluents. The flow rate was 0.7 ml/min. The following
+linear gradient was used: 0???25 min, 10???30% ACN;
+25???30 min, 30???50% ACN; 30???40 min, isocratic on 50%
+ACN; 40???42 min, 50???100% ACN; 42???47 min, isocratic on
+100% ACN; 47???50 min, 100???10% ACN; 50???60 min, isocratic
+on 10% ACN. The eluate was monitored at
+280 nm. The injection volume was 20 ll. Samples were
+injected being solved in the solvent in which they were
+extracted or eluted (water, MeOH, 63% (v/v) aq. EtOH
+or ACN:water mixtures).
+
+

@@ -1,0 +1,27 @@
+Liquid chromatography???mass spectrometry
+Tenmicrolitres of sample were applied to a Vydac C18
+reversed-phase column (300A?? ; 5 ??m; 0.46 ???? 25 cm;
+Dionex, Sunnyvale, CA, USA) on a Spectra System
+high-performance liquid chromatograph (Thermo
+Separation Products, Inc., San Jose, CA, USA)
+coupled to an LCQ mass spectrometer (Finnigan
+MAT, San Jose, CA, USA). The solvents used were
+water containing trifluoroacetic acid (1.5mL L???1)
+(solvent A) and acetonitrile containing trifluoroacetic
+acid (1.5mL L???1) (solvent B). The following gradient
+was applied: 0% B for 5min, linear to 25% B between
+5 and 45 min, linear to 50% B between 45 and
+68 min, linear to 100% B between 68 and 77min,
+100% B between 77 min and 82 min, followed by
+reconditioning of the column at 0% B for 27 min. A
+flow rate of 0.2mL min???1 was used. The absorbance
+of the eluate was monitored at 700 nm. The mass
+spectrum was collected using the positive electrospray
+ionization (ESI) mode with a capillary heated at
+200 ???C, a source voltage of 4.5 kV, and a sheath
+gas flow of 60 arbitrary units with helium as the
+spraying gas. Full-scan spectra were acquired from
+100 to 2000 m/z. The tune method was made with
+a glycine tripeptide. MS-MS fragmentation patterns
+were also recorded. Data were processed using
+Xcalibur??? software (Finnigan MAT).

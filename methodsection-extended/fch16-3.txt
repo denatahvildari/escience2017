@@ -1,0 +1,3 @@
+For the determination of xyloglucan oligomers, enzyme digests were analysed by using a 4  250mm CarboPac PA 100 column
+(Dionex, USA) with pulsed amperometric detection. Gradients of NaOH and NaOAc with a flow of 1 mL/min were used to elute the
+oligomer according to Vincken et al.37 For the determination of digest from endo-xylanase III, the (2  250 mm) CarboPac PA 1 column (Dionex, USA) with pulse amperometric detection was equilibrated with 100 mM NaOH. Gradients of NaOH and NaOAc were used simultaneously to elute the oligomers according to Vierhuis et al.36

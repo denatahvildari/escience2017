@@ -1,0 +1,32 @@
+Distinction between galacturonic acid and glucuronic acid was made
+by high performance anion-exchange chromatography (HPAEC,
+Dionex, USA) after methanolysis according to De Ruiter et al.51
+Sugar composition
+The neutral sugar composition of okra AIS was determined by
+gas chromatography52 using inositol as internal standard. The samples
+were submitted to a prehydrolysis treatment with 72% w/w
+sulfuric acid at 30 C for 1 h followed by a hydrolyses step using
+1 M sulfuric acid at 100 C for 3 h. The sugars were converted to
+their alditol acetates and analysed by GC according to Hilz et al.25
+For the obtained fractions, after drying at 40 C under vacuum
+over P2O5, the samples were hydrolysed with 2 M HCl in dry methanol
+at 80 C for 16 h and followed by 2 MTFA at 121 C for 1 h. The
+monomers were analysed by using high performance anion-exchange
+chromatography (HPAEC, Dionex, USA) equipped with the
+(2  250 mm) CarboPac PA 1 column (Dionex, USA) and post column
+(Dionex, USA) addition. Millipore water, 0.1 M NaOH and
+1 M NaOAc in 0.1 M NaOH with a flow of 0.3 mL/min at 20 C were
+used as eluent, and 0.5 M NaOH with a flow of 0.1 mL/min at 20 C
+was added to post column for allowance of the PAD detection.
+The following gradient was applied using a flow of 0.3 mL/min
+at 20 C of NaOH: 0???30.0 min, 0 mM; 30.0???30.1 min, 0???100 mM;
+30.1???50.0 min, 100 mM. The simultaneous gradient of NaOAc
+was 0.0???30.1 min, 0 mM; 30.1???45.0 min min, 0???400 mM; 45.1???
+50.0, 1000 mM. Millipore water was used from 0.0 to 30.0 min.
+For the post column, 0.5 M NaOH with a flow of 0.1 mL/min was
+used during 0.0???30.1 min. After each run the column was washed
+for 5 min with 1 M NaOAc in 0.1 M NaOH, for 8 min with 0.1 M
+NaOH and subsequently equilibrated with water for 15 min.53
+
+
+

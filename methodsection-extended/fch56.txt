@@ -1,0 +1,13 @@
+Samples were analyzed on an X-Terra C18 MS column (Waters;
+3.5 lm particle size, 4.6  150 mm) with an X-Terra C18 MS guard
+column (Waters; 3.5 lm particle size, 4.6  10 mm) run on a Thermo
+Separation Products HPLC system as previously described
+(Struijs et al., 2007). The gradient (Struijs et al., 2007) was run at
+0.7 ml/min at room temperature. Samples of 20 ll were injected
+being dissolved in MeOH. The molecular masses of the constituents of the macromolecule were determined on a Thermo Finnigan LCQ Classic coupled online
+to the analytical RP-HPLC. 10% of the flow from the analytical
+RP-HPLC was directed to the MS. The MS was equipped with an ESI
+injector. Spectra were obtained in the negative ion mode over an
+m/z range of 150???2000. The capillary temperature was 270 C, the ion spray voltage was set on 4.50 kV, the capillary voltage was
+7.00 V, and helium was used as sheath gas. MS/MS analysis was
+performed with a normalized collision energy of 27%.

@@ -1,0 +1,10 @@
+To measure the concentration of DCM in different
+water???methanol mixtures, a Hewlett Packard 6890 Series gas
+chromatograph equipped with a 30m????0.32mm????1m capillary
+column, Chrompac 8762 CP Sil 19CB, with back injector
+(split ratio of 200:1) and flame ionization detector was used.
+The temperature program was initially set to 100 ???C and
+increased linearly to 160 ???C in seven min. Helium was used
+as carrier gas at a flow rate of 367.6 ml min???1. To obtain the
+actual concentration of the components, calibration curves were
+used.

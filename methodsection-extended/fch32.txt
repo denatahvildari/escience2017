@@ -1,0 +1,22 @@
+Fractionation based on size exclusion chromatography
+The separation of apolar oligosaccharides was performed on an
+AKTA explorer (GE Healthcare, Uppsala, Sweden) equipped with a
+size exclusion Bio-Gel P2 column (900  26 mm; 200???400 mesh,
+BioRad) as described previously.2 The instrument was equipped
+with both a Shodex RI 72 Refractive Index (Showa Denko, Kawasaki,
+and Japan) and PDA detector (GE Healthcare). A flow rate of
+1.2 mL/min was used. In total, 867.5 mg of the apolar (feruloylated
+and/or acetylated) oligosaccharides was dissolved in 12 mL of distilled
+water. Three runs were performed in which 4 mL of sample
+was injected each time. During each run fractions (2 mL) were collected.
+Based on the RI signal and analysis by MALDI-TOF-MS fractions
+with similar contents were pooled and lyophilized resulting
+in samples A up to Q. The recovery was about 90% (w/w) of the
+DM applied onto the column. The carbohydrate content of samples
+A to H was determined after acid methanolysis by high pressure
+anion exchange chromatography as described elsewhere.2 For
+samples I???Q no carbohydrate content was determined due to small
+sample amounts. Based on the average carbohydrate content of
+samples A???H, samples I???Q together are expected to contain
+??18 mg of oligosaccharides.
+ 

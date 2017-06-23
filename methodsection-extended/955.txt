@@ -1,0 +1,12 @@
+ Gel filtration chromatography was carried out at room
+temperature using a Superose-6 column (25 ??  410 mm2 )
+from Pharmacia that was equilibrated with 0.1% (w/v) SDS,
+0.05 M Tris???HCl buffer of pH 8.0. Samples (100 m l) of
+gluten extracts (containing 15???20 mg of protein) were
+applied to the column at a flow rate of 0.2 ml/min. Of the
+UEP protein fraction 25 m l was applied to the column.
+Proteins of known molecular weight were run separately
+calibrate the column. Chromatograms were divided into five
+zones: the excluded volume, P1 .M .  500 kDa.;  P2 . 100
+kDa , M ,  500 kDa.;  P3 . 50 kDa , M ,  100 kDa.;  P4
+. 25 kDa , M ,  50 kDa.;  P5 . 1 kDa , M ,  25 kDa.

@@ -1,0 +1,20 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 Calibri;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22\fsmilli11040 \cf0 High-performance size\
+exclusion chromatography (HPSEC) was performed on an Ultimate\
+3000 HPLC (Dionex, Sunnyvale, CA, USA) using three TSK-Gel\
+columns connected in series (4000\uc0\u8722 3000\u8722 2500 SuperAW; 150 \'d7 6\
+mm). The columns were preceded by a TSK Super AW-L guard\
+column (35 \'d7 4.6 mm). All columns were from Tosoh Bioscience\
+(Tokyo, Japan). Sodium nitrate (0.2 M) was used as an eluent at a flow rate of 0.6 mL/min. A volume of 20 \uc0\u956 L of the sample (2.5 mg/\
+mL in 0.01 M sodium acetate buffer, pH 5.0) was injected and eluted\
+at 55 \'b0C. Solubles were detected using a refractive index detector,\
+Shodex type RI 101 (Showa Denko, Japan). The software used for\
+acquiring the data was Chromeleon version 7. The molecular mass\
+distribution of polysaccharides was determined using pullulan\
+standards (Polymer Laboratories, Varian Inc., Palo Alto, CA, USA)\
+in the molecular mass range 0.18\uc0\u8722 790 kDa.}

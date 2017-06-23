@@ -1,0 +1,7 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 Calibri;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22\fsmilli11040 \cf0 the system comprised a 7890A gas chromatograph and a 5975\uc0\u8201 C series mass spectrometric detector. The samples were analysed on a HP-Innowax (60\u8201 m\u8201 \'d7\u8201 0.25\u8201 mm i.d., 0.25\u8201 \'b5m film thickness; J&W Scientific, Folsom, CA, USA). The GC conditions were as follows: the injection temperature was 250\u8201 \'b0C; the carrier gas was helium at a constant rate 2\u8201 mL/min; the oven temperature program was 2\u8201 min at 50\u8201 \'b0C then 2\u8201 \'b0C/min up to 85\u8201 \'b0C held for 0.1\u8201 min, and finally 5\u8201 \'b0C/min up to 230\u8201 \'b0C. This final temperature was maintained for 2\u8201 min. The electron impact energy was 70\u8201 eV, and the ion source temperature was set at 230\u8201 \'b0C, as described previously}

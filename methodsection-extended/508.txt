@@ -1,0 +1,18 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 Calibri;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22\fsmilli11040 \cf0 An Accela UHPLC system (Thermo Scientific, San\
+Jose, CA, USA) was equipped with a pump, autosampler, and\
+photodiode array (PDA) detector. Sample (1 \uc0\u956 L) was injected onto an\
+Acquity UPLC BEH shield RP18 column (2.1 mm i.d. \'d7 150 mm, 1.7\
+\uc0\u956 m particle size; Waters, Milford, MA, USA) with an Acquity UPLC\
+BEH shield RP18 VanGuard precolumn (2.1 mm i.d. \'d7 5 mm, 1.7 \uc0\u956 m\
+particle size; Waters). Water acidified with 0.1% (v/v) acetic acid,\
+eluent A, and ACN acidified with 0.1% (v/v) acetic acid, eluent B,\
+were used as solvents at a flow rate of 300 \uc0\u956 L/min. The temperatures\
+of the autosampler and column oven were controlled at 15 and 35 \'b0C,\
+respectively. The PDA detector was set to monitor the 200\uc0\u8722 400 nm\
+range.}

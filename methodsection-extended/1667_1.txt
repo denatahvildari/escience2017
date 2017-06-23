@@ -1,0 +1,12 @@
+The derivatized HA-fluor products were purified in three separation
+steps on an .KTA explorer fast protein liquid chromatography
+(FPLC) system monitoring the eluents at 215 and 340 nm: (i)
+desalting the derivatized oligosaccharides with a Sephadex G10
+column and 50 mM ammonium acetate as eluent, (ii) separating
+the fluorescent saccharides from the unreacted ones using a Source
+30Q column with an NaCl gradient from 0 to 0.5 M over 100 min at
+a flow rate of 2 ml/min, and finally (iii) removing the NaCl through
+desalting with a Sephadex G10 column and 50 mM ammonium
+acetate. Samples containing the same compound were pooled
+and freeze-dried after each separation step. After the last separation
+step, the products were identified with MALDI-TOF.

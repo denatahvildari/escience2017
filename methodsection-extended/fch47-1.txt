@@ -1,0 +1,31 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\f0\fs24 \cf0 U-HPLC-MS analysis of oligosaccharide-hydroxy-arylesters\
+The compositions of the reaction mixtures from oligosaccharide\
+hydroxy-arylation and the SPE fractions were determined using\
+U-HPLC-MS equipment and columns as described elsewhere.12\
+For the reaction mixture analysis, 3 lL of a 200-diluted sample\
+in DMSO was injected. For the SPE fractions, 5 lL of a 5 mg/mL\
+solution in water was injected. For elution (30 C), a gradient was\
+applied at 300 lL/min using the following two eluents: A: water\
+containing 1% (v/v) acetonitril and 1% (v/v) HOAc; B: acetonitril\
+containing 1% (v/v) HOAc. Gradient: 0???2 min: 95???80% A; 2???\
+9 min: 80???70% A; 9???11 min: 70???60% A; 11???15 min: 60???20% A;\
+15???16 min: 20???0% A; 16???18 min: 0% A isocratic; 18???22 min: 0???\
+95% A; 22???26 min: 95% A isocratic. Linear gradients were used in\
+all non-isocratic steps. Detection was performed by the PDA detector\
+scanning between 200 and 400 nm. Half of the eluent was led\
+to the ESI-MS system running in the negative mode. Helium was\
+used as a sheath gas and nitrogen as auxiliary gas. The capillary\
+temperature was set at 250 C and the spray voltage at 4.7 kV. Settings\
+of the MS were tuned using a purified saccharose-HPP monoester\
+sample. After each first scan event, being a full scan between\
+m/z 300???2000, MS/MS analysis was performed in a second scan\
+event for the most intense ion in the full MS spectrum, using normalized\
+collision energy of 35.0 units. During the first 3.5 min of\
+each run, eluent was directed to the waste in order to protect the MS from DMSO influx. Data were processed using XCalibur software\
+(Thermo Scientific).}

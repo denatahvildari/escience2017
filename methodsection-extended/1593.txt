@@ -1,0 +1,2 @@
+CopT was then purified to apparent homogeneity by size exclusion chromatography using a Superdex 200 10/300 GL column (Amersham Biosciences), which was pre equilibrated
+with buffer S (20 mM Tris/HCl, pH 7?0, 0?1 M NaCl, 10 mM DTT). Fractions containing pure CopT were pooled and flushed in an anaerobic chamber to remove residual oxygen molecules. Recombinant CopT was stored at 4 uC. Typically, a 500 ml expression culture harvested approximately 5 mg electrophoretically pure CopT.

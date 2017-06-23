@@ -1,0 +1,5 @@
+A known amount of these wet sieved (Van Roon et al. 2003) particles was incubated overnight at 277 K and pH 8.0 in a solution in which a known amount of reactant was dissolved. Then the equilibrium concentration of the reactant in the continuous
+phase was analyzed by high-performance liquid chromatography (Van Roon et al. 2003) to check for partitioning. A portion of these particles was transferred into a known
+amount of water that was vigorously stirred. Particle-free samples were taken immediately (by use of filters), and the concentration was measured with HPLC. From this, the
+diffusivity was estimated by fitting a standard parabolic differential equation for Fickian diffusion (e.g., Bird et al. 1960a,b) out of a known mass of spheres of 205-??m
+radius.

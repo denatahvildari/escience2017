@@ -1,0 +1,15 @@
+The amount of butyl butyrate formed was determined using gas chromatography (Focus GC with
+AS3000 autosampler, Interscience, Breda, Netherlands). The system
+was calibrated using butyl butyrate. The gas chromatograph was
+equipped with a Flame ionisation Detector and a Restek Rxi-5 ms
+column with dimensions of 30 m  0.25 mm  0.25 lm. The carrier
+gas was helium and the make-up gas was nitrogen. Conditions:
+injection volume was 1 lL; oven temperature was 50 C for
+2 min and was then raised to 300 C at a rate of 20 C/minute
+and stayed at 300 C for 2 min; software was Chrom-Card v2.4.1
+Purifications have also been performed using flash chromatography
+which fractionates the material using the same column
+material in a larger column and a linear gradient of water and
+methanol (details about methods are available in supporting information
+2). Similar results were obtained and are therefore not
+shown.

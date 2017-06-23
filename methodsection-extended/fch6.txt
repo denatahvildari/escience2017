@@ -1,0 +1,16 @@
+Samples were analyzed on high-performance anionexchange
+chromatography (HPAEC) system (ISC-3000 System,
+Dionex) equipped with a CarboPac PA1 analytical column
+and a CarboPac PA1 guard column and a pulsed amperometric
+detector (Dionex). Linkage analyses were performed
+according to the Hakamori procedure as described in Ref. 28:
+Only neutral sugars present in the pectins were included in
+the analysis as galacturonic acids were not reduced before
+methylation. The levels of methyl esters and acetyl groups
+were analyzed by Ultimate 3000 HPLC system (Dionex) after
+chemical saponification of the pectins as described in Ref. 23.
+High-performance size exclusion chromatography was performed
+using Dionex Ultimate 3000 system equipped with a
+series of three TosoHaas TSK-Gel G columns (4000WXL,
+3000PWXL, 2500PWXL; Tosho Bioscience) and a Shodex refractive
+index detector (Showa Denko) as described in Ref. 28.

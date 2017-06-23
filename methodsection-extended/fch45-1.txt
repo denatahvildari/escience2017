@@ -1,0 +1,30 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\f0\fs24 \cf0 Reversed-phase HPLC??? mass spectrometry\
+Reversed-phase HPLC was performed on a HPLC system\
+(Thermo Separation Products) equipped with a\
+Thermohypersil Aquasil C18 column ((Keystone Scientific);\
+4.6 mm ID??~150 mm; 3 m) in combination with\
+a Thermohypersil Aquasil C18 guard column (4.6 mm\
+ID??~10 mm; 3 m). The RP-column was coupled to a\
+splitter (Dionex) directing 10% of the eluent to a Sedex\
+55 evaporating light scattering detector (Sedere), 5% to\
+a LCQ Ion-trap (Finnigan MAT 95) and the remaining\
+part to a fraction collector or waste. Elution (0.8 mL/\
+min) was performed using a gradient of degassed\
+(Membrane degasser; Thermo Separation Products)\
+methanol in pure water: 0???28 v/v% methanol in 0???70\
+min. Each elution was followed by a equilibration step\
+(isocratic pure water; 30 min). Pool X4Ac (20 mg/mL)\
+was subjected to RP chromatography separated in 20\
+RP-HPLC runs (20 times 100 L of injection) to obtain\
+enough material of each peak to perform NMR analysis.\
+Fractions (276 L) were collected by using a fraction\
+collector in the same series of tubes for 5 runs.\
+Finally, all tubes containing similar material were\
+combined.\
+}

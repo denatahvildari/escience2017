@@ -1,0 +1,13 @@
+The AcXOS-mixture (163 mg in 2 mL) was fractionated further [36] by using
+a Pharmacia system equipped with a BioGel P-2 column (900mm????26 mm; 200???400 mesh, Bio-Rad Laboratories) thermostated at 60 ???C. Elution was performed at 0.5 mL/min
+with water (60 ???C) and fractions were collected every 2 mL. The eluent was detected by a Shodex RI-72 detector. Two of these fractions, named X4Ac (about 1 mg/mL) and X3Ac (about
+1 mg/mL), were fractionated further by using reversed phase
+HPLC and analysed by CE-LIF. Linear unsubstituted -(1,4)-xylo-oligosaccharides (XOS)
+were prepared by alkali removal (50mMNaOH) of the O-acetyl
+substituents from acetylated -(1,4)-xylo-oligosaccharides.
+
+Reversed phase HPLC (offline) and CE
+Reversed phase HPLC was performed on a HPLC system (Thermo Separation Products) equipped with a Thermohypersil Aquasil C18 column ((Keystone Scientific); 150mm???? 4.6mm
+I.D.; 3 m) in combination with a Thermohypersil Aquasil C18 guard column (10mm???? 4.6mm I.D.; 3 m). The RP column was coupled to a splitter (Dionex) directing 10% of
+the eluent to an evaporative light scattering detector (ELSD 2000; Alltech) and the remaining part to a fraction collector (0.4 min/fraction). Elution (0.8 mL/min) was performed using a gradient of degassed (Membrane degasser; Thermo Separation
+Products) methanol in pure water: 0???28% (v/v) methanol in 0???70 min. Each elution was followed by an equilibration step (isocratic pure water; 30 min). These fractions were analyzed on matrix-assisted laser desorption/ ionisation time-of-flight mass spectrometry (MALDITOF- MS) and depending on the peak height 50???200  L per RP-HPLC-fraction was used for APTS-derivatization and analysis on CE.

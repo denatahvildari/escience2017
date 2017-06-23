@@ -1,0 +1,31 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\f0\fs24 \cf0 For kinetic experiments, ??-D-Galp-(1,4)-D-Galp [hereafter\
+referred to as Gal(??1???4)Gal] concentration was\
+varied in the range of 0.05???8.0 mg/ml and measured by\
+high-performance anion-exchange chromatography\
+(HPAEC). The reactions were carried out in 2 mM\
+potassium phosphate buffer pH 6.0 and 0.12 U/ml ??-\
+galactosidase for 60 min at 37??C. The incubations were\
+stopped by heating the incubation mixtures for 5 min at\
+100??C. After centrifugation (5 min, 10,000 g) the supernatant\
+was analysed by HPAEC using a Dionex system\
+equipped with a Dionex CarboPac PA-1 (4 mm ID ??~ 250\
+mm) column in combination with a CarboPac PA guard\
+column (3 mm ID ??~25 mm) and a pulsed electrochemical\
+detector in pulsed amperometric detection (PAD) mode\
+(Dionex, Sunnyvale, Calif.). A flow rate of 1 ml/min was\
+used with the following gradient of sodium acetate in 0.1\
+M NaOH: 0???15 min, 0???100 mM; 15???20 min, 100???200\
+mM; 20???21 min, 200???1,000 mM. Each elution was\
+followed by a washing step of 5 min in 1,000 mM sodium\
+acetate and an equilibration step of 15 min 0.1 M NaOH.\
+The hydrolytic activity of ??-Gal II towards different\
+types of oligosaccharides was measured by HPAEC, using\
+the same gradient as for the kinetic experiments. The\
+incubations were performed with 1 mg/ml substrate under\
+the conditions described above.}

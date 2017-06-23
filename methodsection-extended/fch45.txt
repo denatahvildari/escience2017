@@ -1,0 +1,10 @@
+Size-exclusion chromatography
+To fractionate the AcXOS-mixture (163 mg in 2 mL) a
+Pharmacia system equipped with a BioGel P-2 column
+(900??~26 mm; 200???400 mesh, Bio-Rad Laboratories)
+thermostated at 60 ??C was used. Elution was performed
+at 0.5 mL/min with water (60 ??C) and fractions were
+collected every 2 mL. The eluent was detected by a
+Shodex RI-72 detector. Four of these size-exclusion
+runs were performed to obtain sufficient material of
+pool X4Ac.

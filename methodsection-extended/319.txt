@@ -1,0 +1,7 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 Calibri;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs22\fsmilli11040 \cf0 Samples (20 \uc0\u956 l) were analysed on an X-Terra C18 MS column (Waters; 3\'b75 \u956 m particle size, 4\'b76 \'d7 150 mm) with an X-Terra C18 MS guard column (Waters; 3\'b75 \u956 m particle size, 4\'b76 \'d7 10 mm) run on a Thermo Separation Products HPLC system equipped with a membrane degasser, P4000 pump, AS3000 autosampler and UV3000 detector. Water and acetonitrile (ACN), both acidified with 0\'b71% (v/v) HOAc, were used as eluents. The flow rate was 0\'b77 ml min\u8722 1. The following gradient was applied: 0\'9625 min, linear from 10% to 30% ACN; 25\'9630 min, linear to 50% ACN; 30\'9640 min, isocratic on 50% ACN; 40\'9642 min, linear to 100% ACN; 42\'9647 min, isocratic on 100% ACN; 47\'9650 min, linear to 10% ACN; 50\'9660 min, isocratic on 10% ACN. The eluate was monitored at 280 nm, and by mass spectroscopy on a Thermo Finnigan LCQ Classic equipped with an ESI-MS injector.}

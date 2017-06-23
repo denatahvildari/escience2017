@@ -1,0 +1,9 @@
+SEC-MALLS Size exclusion chromatography (SEC)
+was performed using Tosohaas PWXL columns (Biogel
+TSK 30, 40 and 60 XL ). The gel permeation separation
+was carried out at room temperature with 0.2 mol/l
+NaNO3 as the eluent. The eluent from the column was
+analysed on-line by RI (refractive index) detection, by
+UV transmission at a wavelength of 280 nm and by
+static light scattering. Static light scattering was performed
+with a Wyatt Technology DAWN EOS apparatus.

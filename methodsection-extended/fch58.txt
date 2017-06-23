@@ -1,0 +1,8 @@
+Compositional analysis of sugars and alditols were carried out
+on a HPAEC system (ICS-3000, Dionex) with a pulsed amperometric
+detector (PAD), on a CarboPac PA-1 column (Dionex) at 20 C.
+Separation was performed at a flow rate of 0.3 mL/min, using gradient
+elution by mixing water, 0.1 M NaOH, and 1 M NaOAc in
+0.1 M NaOH as described by Verhoef et al.24 Analytical samples
+for HPAEC were prepared by methanolysis in 2 M HCl in dry MeOH at 80 C for 16 h, followed by 1 h of 2 M CF3CO2H treatment at
+121 C.

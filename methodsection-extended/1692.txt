@@ -1,0 +1,4 @@
+The dried residues were dissolved in ethylacetate (including 0.1% BHT) to prepare them for high-performance liquid chromatography (HPLC) analysis. To remove the remaining impurities, samples were incubated in the sonicator bath for 10 min and centrifuged
+for 10 min at 2,500 rpm. For the analysis, dark glass HPLC bottles were used. HPLC with photodiode array analysis was performed as described by Bino et al. (2005). The first
+set-up experiments were performed and analyzed separately from the second set of experiments with the flat-panel reactors. During the first HPLC run, the neoxanthin peak
+was separated from the violaxanthin peak. During the second run, the neoxanthin and violaxanthin peaks were inseparable. Here, the total surface of the combined peak of neoxanthin/ violaxanthin was determined and used as if one peak.

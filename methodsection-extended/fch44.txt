@@ -1,0 +1,11 @@
+High performance anion-exchange chromatography with
+pulsed amperometric detection
+An HPAEC system (ICS-3000, Dionex Corporation, Sunnyvale,
+CA, USA) was equipped with a CarboPac PA-1 column and a
+CarboPac PA-1 guard column (2 mm ID  250 mm and 2 mm
+ID  25 mm; Dionex Corporation). A flow of 0.3 mL/min was used
+and the temperature was kept at 20 C. AOS (injection volume
+10 lL; 10???100 lg/mL) were separated using a gradient with
+0.1 M NaOH (solution A) and 1 M NaOAc in 0.1 M NaOH (solution
+B): 0???36 min from 0% B to 42% B, 36???42 min at 100% B, and 42???
+57 min at 0% B.6
